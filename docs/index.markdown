@@ -5,4 +5,4 @@
 layout: default
 ---
 
-{% include_relative wiki/homed.txt %}
+{% include_relative wiki/home.txt %}
