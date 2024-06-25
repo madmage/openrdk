@@ -14,22 +14,22 @@
 </ul>
 </p>
 
-<p>Download the source code of the OpenRDK from the SourceForge repository, either the <pre>.tgz</pre> archive or the <pre>.tar.bz2</pre> archive. Type:
-<code>
+<p>Download the source code of the OpenRDK from the SourceForge repository, either the <code>.tgz</code> archive or the <code>.tar.bz2</code> archive. Type:
+<pre>
 tar xzvf OpenRDK-???.tgz
-</code>
+</pre>
 or
-<code>
+<pre>
 tar xjvf OpenRDK-???.tar.bz2
-</code>
-in which ??? is the version number that you downloaded. After that, enter in the <pre>src</pre> subdirectory. Type:
-<code>
+</pre>
+in which ??? is the version number that you downloaded. After that, enter in the <code>src</code> subdirectory. Type:
+<pre>
 cmake .
-</code>
+</pre>
 This will configure and prepare the software to be compiled on your machine. Check if something is wrong and try to solve the problems; after that, type:
-<code>
+<pre>
 . setenv<br/>
 make
-</code>
-go to take a cup of coffee and wait for the OpenRDK to be compiled. The <pre>setenv</pre> script need to be run every time you want to compile or to run some OpenRDK application, since it sets some environment variables needed for everything to work.</p>
+</pre>
+go to take a cup of coffee and wait for the OpenRDK to be compiled. The <code>setenv</code> script need to be run every time you want to compile or to run some OpenRDK application, since it sets some environment variables needed for everything to work.</p>
 

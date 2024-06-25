@@ -4,18 +4,18 @@
 
 <p>OpenRDK is a modular software framework focused on rapid development of distributed robotic systems. It has been designed following users' advice and has been in use within our group for several years. By now OpenRDK has been successfully applied in diverse applications with heterogeneous robots and as  we believe it is fruitfully usable by others we are releasing it as open source.</p>
 
-<p>The OpenRDK can be downloaded from <a href="https://sourceforge.net/project/showfiles.php?group_id=213249">SourceForge.net</a>. If you find any problem or you want more help, you can subscribe to the <a href="http://lists.sourceforge.net/mailman/listinfo/openrdk-help" target="_BLANK">OpenRDK Support Mailing List</a>.
+<p>The OpenRDK can be downloaded from <a href="https://github.com/madmage/openrdk">GitHub</a>. We also have a <a href="wiki/docsy">generated API documentation</a>.
 
-<img style="float:right" src="wiki/first-example-color.png"/>
+<img style="float:right; padding: 2px" src="wiki/first-example-color.png"/>
 
 <p>
 <ul>
 <li>In our framework the main entity is a software process called <b>agent</b>. A <b>module</b> is a single thread inside the agent process; modules can be loaded and started dynamically once the agent process is running.<br/>
-In the following on the right we see an example. Two agents are executed on two different machines and three modules run inside them: <pre>hwInterface</pre> retrieves data from a laser range finder and the odometry from a robotic base; given this data, <pre>scanMatcher</pre> uses a scan-matching algorithm in order to estimate the robot positions over time; <pre>mapper</pre> uses the estimated robot positions, together with the laser scans, to build a map of the environment.</li>
+In the following on the right we see an example. Two agents are executed on two different machines and three modules run inside them: <code>hwInterface</code> retrieves data from a laser range finder and the odometry from a robotic base; given this data, <code>scanMatcher</code> uses a scan-matching algorithm in order to estimate the robot positions over time; <code>mapper</code> uses the estimated robot positions, together with the laser scans, to build a map of the environment.</li>
 <li>An agent <b>configuration</b> is the list of which modules are instantiated, together with the values of their parameters and their interconnection layout. It is initially specified in a configuration file.
 <li>Modules communicate using a blackboard-type object, called <b>repository</b> (see figure on the right), in which they publish some of their internal variables (parameters, inputs and outputs), called <b>properties</b>. A module defines its properties during initialization, after that, it can access its own and other modules' data, within the same agent or on other ones, through a global URL-like addressing scheme. Access to remote properties is transparent from a module perspective; on the other hand, it reduces to shared memory (OpenRDK provides easy built-ins for concurrency management) in the case of local properties.</li>
 <li>Special queue objects also reside in the repository and they share the same global URL-like addressing scheme of other properties. <br/>
-In the figure on the right, the <pre>hwInterface</pre> module pushes laser scan and odometry objects into queues, that are remotely accessed by the <pre>scanMatcher</pre> module, which, in turn, pushes the estimated poses in another queue, for the <pre>mapper</pre> to access to them. Finally, the mapper updates a property which contains a map.</li>
+In the figure on the right, the <code>hwInterface</code> module pushes laser scan and odometry objects into queues, that are remotely accessed by the <code>scanMatcher</code> module, which, in turn, pushes the estimated poses in another queue, for the <code>mapper</code> to access to them. Finally, the mapper updates a property which contains a map.</li>
 </ul>
 
 All these entities are implemented in the OpenRDK core and usually all a developer is requested to do is to create a new module, that is a very easy task indeed (from the point of view of the framework: he can concentrate on the real problem, without having to care much about the framework).

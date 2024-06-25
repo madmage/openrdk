@@ -2,9 +2,16 @@
 
 <p>OpenRDK is the result of the development activity in the <a href="http://sied.dis.uniroma1.it/">SIED Laboratory</a>, whose coordinator is <a href="http://www.dis.uniroma1.it/~nardi">Prof. Daniele Nardi.</a>.</p>
 
-<p><a href="http://www.dis.uniroma1.it/~calisi" target="_BLANK">Daniele Calisi</a> and <a href="http://www.cds.caltech.edu/~andrea/" target="_BLANK">Andrea Censi</a> have designed and implemented this framework.</p>
+<p><a href="https://www.linkedin.com/in/danielecalisi/" target="_BLANK">Daniele Calisi</a> and <a href="https://censi.science/" target="_BLANK">Andrea Censi</a> have designed and implemented this framework.</p>
 
-<p><a href="http://www.dis.uniroma1.it/~farinell" target="_BLANK">Alessandro Farinelli</a>, <a href="http://www.informatik.uni-freiburg.de/~grisetti/" target="_BLANK">Giorgio Grisetti</a> and <a href="http://www.dis.uniroma1.it/~iocchi" target="_BLANK">Luca Iocchi</a> gave their contribution in the architecture definition and implementation.</p>
+<p><a href="http://profs.sci.univr.it/~farinelli/" target="_BLANK">Alessandro Farinelli</a>, <a href="https://sites.google.com/dis.uniroma1.it/grisetti" target="_BLANK">Giorgio Grisetti</a> and <a href="http://www.dis.uniroma1.it/~iocchi" target="_BLANK">Luca Iocchi</a> gave their contribution in the architecture definition and implementation.</p>
+
+<p>Here is a couple of papers related to the OpenRDK:<br/>
+
+<a href="https://doi.org/10.1109/IROS.2008.4651213" target="_blank"><b>OpenRDK: A modular framework for robotic software development</b></a>. D. Calisi, A. Censi, L. Iocchi, D. Nardi. <i>2008 IEEE/RSJ International Conference on Intelligent Robots and Systems</i>.<br/>
+
+<a href="https://aisberg.unibg.it/handle/10446/86205" target="_blank"><b>Design choices for modular and flexible robotic software development: the OpenRDK viewpoint</b></a>. D. Calisi, A. Censi, L. Iocchi, D. Nardi. <i>Journal of Software Engineering in Robotics</i>.
+</p>
 
 <p>The previous framework of our laboratory, on which Giorgio Grisetti, Alessandro Farinelli and Luca Iocchi worked hard, was named SPQR-RDK; here is a pubblication about it:<br/>
 <a href="http://www.dis.uniroma1.it/~iocchi/publications/iocchi-ars06.pdf">

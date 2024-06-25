@@ -2,29 +2,29 @@
 <p>Now you can launch your first OpenRDK application.</p>
 
 <h3>StringWriter module</h3>
-<p>Go to <pre>${OpenRDK}/data/config/examples</pre> and type:
-<code>
+<p>Go to <code>${OpenRDK}/data/config/examples</code> and type:
+<pre>
 ragent2 -c ra-stringWriter.config
-</code>
-you should see some colored output on your console. Here is a brief explanation of what is going on. The configuration file that you launched contains only one module, the <pre>StringWriterModule</pre>. This module has one string property (that contains the string to write) and its task is to write, each second, a logging message on the console. This configuration is depicted in the following figure:
-<center><img src="tutorial-primer-stringWriter.png"/></center>
+</pre>
+you should see some colored output on your console. Here is a brief explanation of what is going on. The configuration file that you launched contains only one module, the <code>StringWriterModule</code>. This module has one string property (that contains the string to write) and its task is to write, each second, a logging message on the console. This configuration is depicted in the following figure:
+<center><img src="wiki/tutorial-primer-stringWriter.png"/></center>
 </p>
 
 <h3>StringWriter module with RConsole</h3>
-<p>Let's try another example, this time we will be introduced to RConsole, the OpenRDK visual inspection tool. As you should know, RConsole is actually an RDK Agent that has a module that is responsible of showing a good GUI. In the <pre>${OpenRDK}/data/config/examples</pre> directory, launch:
-<code>
+<p>Let's try another example, this time we will be introduced to RConsole, the OpenRDK visual inspection tool. As you should know, RConsole is actually an RDK Agent that has a module that is responsible of showing a good GUI. In the <code>${OpenRDK}/data/config/examples</code> directory, launch:
+<pre>
 rconsoleqt -c rqra-stringWriter.config
-</code></p>
+</pre></p>
 
-<p>Ok, good. Now you have also a window on the screen. Maximize this window, so that we have more space to see and begin to learn OpenRDK basics. Go to the "Network" menu and click on "Show my repository". You will be presented to a tree viewer that shows the repository of this RDK Agent, that contains also the module for the GUI management. Remember: this RDK Agent (i.e., the RConsole) is identical to the previous one, except for the fact that it has another module (the RConsole GUI manager) and some libraries pre-loaded (this is the reason why you launched <pre>rconsoleqt</pre> and not <pre>ragent2</pre>, as before).</p>
+<p>Ok, good. Now you have also a window on the screen. Maximize this window, so that we have more space to see and begin to learn OpenRDK basics. Go to the "Network" menu and click on "Show my repository". You will be presented to a tree viewer that shows the repository of this RDK Agent, that contains also the module for the GUI management. Remember: this RDK Agent (i.e., the RConsole) is identical to the previous one, except for the fact that it has another module (the RConsole GUI manager) and some libraries pre-loaded (this is the reason why you launched <code>rconsoleqt</code> and not <code>ragent2</code>, as before).</p>
 
-<p>The tree viewer that you opened allows you to see the contents of the repository. Among the other things, you can see the "directory" of the template module. Open it and look at its properties. Among them you can see a "subdirectory", whose name is <pre>params</pre>: open it and you should see the <pre>stringToWrite</pre> property.</p>
+<p>The tree viewer that you opened allows you to see the contents of the repository. Among the other things, you can see the "directory" of the template module. Open it and look at its properties. Among them you can see a "subdirectory", whose name is <code>params</code>: open it and you should see the <code>stringToWrite</code> property.</p>
 
 <p>In order to look at this property, you have to open an instance of the StringViewerModule of RConsole. There are two ways: either double click on the property or drag it and drop on the grey workspace of the RConsole window.</p>
 
-<p>The StringWriter module is an example module that, every one second, reads the <pre>params/stringToWrite</pre> property and writes a console log message that contains this string. This means that if we change the content of the string, the module will change the message that it prints on the screen. Edit the string on the box and press enter, now go to the console view to see that the message has changed.</p>
+<p>The StringWriter module is an example module that, every one second, reads the <code>params/stringToWrite</code> property and writes a console log message that contains this string. This means that if we change the content of the string, the module will change the message that it prints on the screen. Edit the string on the box and press enter, now go to the console view to see that the message has changed.</p>
 
 <p>You will find how useful this can be, when you will be able to change the parameters of your modules on-the-fly, and look at the changes in the algorithms behavior without having to stop programs, edit code, recompile, etc.</p>
 
 <h3>More interesting examples</h3>
-<p>In order to run some more interesting examples, go to <a href="index.php?q=tutorial-player">next section</a>.</p>
+<p>In order to run some more interesting examples, go to <a href="{% link tutorial-player.markdown %}">next section</a>.</p>
