@@ -21,10 +21,10 @@
 title: OpenRDK
 email: daniele.calisi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  OpenRDK is a modular software framework focused on rapid development of distributed robotic systems.
+  It has been designed following users' advice and has been in use within our group for several years.
+  By now OpenRDK has been successfully applied in diverse applications with heterogeneous robots and
+  as we believe it is fruitfully usable by others we are releasing it as open source.
 url: "https://madmage.github.io/openrdk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  ""
