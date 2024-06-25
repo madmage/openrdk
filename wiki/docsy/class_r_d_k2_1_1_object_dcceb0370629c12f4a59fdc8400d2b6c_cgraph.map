@@ -1,0 +1,13 @@
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#a8d3935e8ab98abb9055afb1bdb73182" title="Ritorna la rappresentazione come stringa." alt="" coords="312,107,560,134">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#1148b03a8f303bdb6f3af47f784f7627" title="Ritorna true se ha una rappresentazione &quot;semplice&quot; come stringa." alt="" coords="311,158,561,184">
+<area shape="rect" href="$struct_r_d_k2_1_1_demangle_1_1_reflective.html#9277d1d6deb515a6cf603fd39caf08a8" title="RDK2::Demangle::Reflective::getClassName" alt="" coords="611,107,891,134">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#7271ff5f9d920962422e67f63941e1d7" title="RDK2::Demangle::demangle" alt="" coords="940,107,1124,134">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#3b6ace6c9a840f7b51ecf66316288b77" title="RDK2::Demangle::deleteNamespaces" alt="" coords="1173,82,1413,108">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#41de781c3ef20c38d0c14456e62948fb" title="RDK2::Demangle::rdemangle" alt="" coords="1199,132,1388,159">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#8c0c7c9ce4814fbb1211ff3062318dd2" title="RDK2::Demangle::try_type" alt="" coords="1461,132,1637,159">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#1c106ed97b848640e31942ab6d072c41" title="RDK2::Demangle::native_type" alt="" coords="1697,6,1892,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#7096de8a7c46985a70bfccb0a972d6be" title="RDK2::Demangle::pointer" alt="" coords="1711,56,1879,83">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#03e2733aa0b1679dbb067e00b8d762cd" title="RDK2::Demangle::qualified_class" alt="" coords="1687,107,1903,134">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#ae0712d935474246b50d911fada13230" title="RDK2::Demangle::reference" alt="" coords="1703,158,1887,184">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#49a854f4a3d0e04c97304667cc66b8a1" title="RDK2::Demangle::simple_class" alt="" coords="1692,208,1897,235">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#8a9767825f195a1be60a0e440a17122d" title="RDK2::Demangle::template_class" alt="" coords="1687,259,1903,286">

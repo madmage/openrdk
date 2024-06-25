@@ -1,0 +1,15 @@
+<area shape="rect" href="$struct_r_d_k2_1_1_repository_n_s_1_1_r_remote_subscription.html#bb388203928d88ea06bfa2795b1bd4b1" title="RDK2::RepositoryNS::RRemoteSubscription::clone" alt="" coords="648,5,963,32">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#1ffc81fc6472f7754a7699b7491245ea" title="Each repository has a unique name, i.e. the one used in the constructor." alt="" coords="637,56,973,82">
+<area shape="rect" href="$struct_r_d_k2_1_1_repository_n_s_1_1_r_remote_subscription.html#a5e17e632b1047b1ed686c19f77d6b4f" title="Returns a string to be used to visualize the object." alt="" coords="591,106,1020,133">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_url.html#9e90fb1eb460c600234f029ad7e09fc7" title="Url is complete when it has also the host part (i.e. it begins with &quot;rdk://&quot;)..." alt="" coords="1475,258,1715,285">
+<area shape="rect" href="$class_posix_constructs_1_1_posix_mutex.html#45e42845140324802a68a81ec1d9ee09" title="PosixConstructs::PosixMutex::lock" alt="" coords="1147,208,1373,234">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_remote_subscription_register.html#e259756dd8d010d083d35b97d2f25c45" title="Query for reading the register." alt="" coords="567,258,1044,285">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#42cbc935b2978912170b943a8b41f802" title="RDK2::RepositoryNS::Repository::queuePush" alt="" coords="663,385,948,412">
+<area shape="rect" href="$class_posix_constructs_1_1_posix_mutex.html#f735e71d6e450bfc520527f37fab8edc" title="PosixConstructs::PosixMutex::unlock" alt="" coords="1140,613,1380,640">
+<area shape="rect" href="$namespace_network.html#caffb4fb20080680f8a1d5768e423f9d" title="Network::netProtocolToString" alt="" coords="1165,106,1355,133">
+<area shape="rect" href="$class_posix_queues_1_1_pipe_queue.html#fb2a3e8e91e5ce3b96a193308bcdc310" title="PosixQueues::PipeQueue::gc" alt="" coords="1164,309,1356,336">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_url.html#7675daf3393f4ad0cb25cddf336ae278" title="Returns the host of the url, if it is complete; otherwise it returns &quot;&quot;..." alt="" coords="1151,360,1369,386">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#c5b04454f082e73889fe123081671ef8" title="RDK2::RepositoryNS::Property::getObjectClassName" alt="" coords="1095,410,1425,437">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#81e5e2c0ad9c376b6e4d43c264398e89" title="RDK2::RepositoryNS::Property::isQueue" alt="" coords="1132,461,1388,488">
+<area shape="rect" href="$class_posix_queues_1_1_pipe_queue.html#c8937b1d315e4969ba05a5c3aa3932f7" title="ob is now property of this queue" alt="" coords="1156,512,1364,538">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#4c423050e34a18e0552bd646581b1169" title="RDK2::RepositoryNS::Property::setObjectClassName" alt="" coords="1095,562,1425,589">

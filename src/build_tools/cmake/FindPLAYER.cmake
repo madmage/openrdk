@@ -1,0 +1,57 @@
+## FindPlayer: finds the Player/Stage suite
+## Copyright (C) 2008 Daniele "MadMage" Calisi
+
+SET(PLAYER_INCLUDE_DIR "PLAYER_INCLUDE_DIR-NOTFOUND")
+SET(PLAYER_LINK_DIRECTORIES "PLAYER_LINK_DIRECTORIES-NOTFOUND")
+SET(PLAYER_LIBRARIES "")
+
+IF (NOT "${CMAKE_CROSSCOMPILING}" STREQUAL TRUE)
+	FIND_PATH(PLAYER_INCLUDE_DIR libplayerc++
+		/usr/include/player-2.0
+		/usr/local/include/player-2.0
+		/usr/include/player-2.1
+		/usr/local/include/player-2.1
+		)
+
+	FIND_LIBRARY(PLAYER_LINK_DIRECTORIES playerc++
+		PATHS
+		/usr/lib
+		/usr/local/lib
+		)
+
+	FIND_PATH(PLAYERCORE_INCLUDE_DIR libplayercore
+		/usr/include/player-2.0
+		/usr/local/include/player-2.0
+		/usr/include/player-2.1
+		/usr/local/include/player-2.1
+		)
+ELSE(NOT "${CMAKE_CROSSCOMPILING}" STREQUAL TRUE)
+	MESSAGE(STATUS "Player support is not available for cross-compiled OpenRDK")
+ENDIF (NOT "${CMAKE_CROSSCOMPILING}" STREQUAL TRUE)
+
+IF(PLAYER_INCLUDE_DIR AND PLAYER_LINK_DIRECTORIES AND PLAYERCORE_INCLUDE_DIR)
+	SET(PLAYER_FOUND "Yes")
+	STRING(REGEX REPLACE ".*/([^/]*)$" "\\1" PLAYER_LIBRARIES ${PLAYER_LINK_DIRECTORIES})
+	STRING(REGEX REPLACE "/[^/]*$" "" PLAYER_LINK_DIRECTORIES ${PLAYER_LINK_DIRECTORIES})
+	IF(LINUX)
+		SET(PLAYER_LIBRARIES ${PLAYER_LIBRARIES};libplayercore.so)
+	ENDIF(LINUX)
+	IF(MACOSX)
+		SET(PLAYER_LIBRARIES ${PLAYER_LIBRARIES};libplayercore.dylib)
+	ENDIF(MACOSX)
+ENDIF(PLAYER_INCLUDE_DIR AND PLAYER_LINK_DIRECTORIES AND PLAYERCORE_INCLUDE_DIR)
+
+IF(PLAYER_FOUND)
+	IF(PKG_CONFIG_FOUND)
+		EXECUTE_PROCESS(COMMAND ${PKG_CONFIG_EXECUTABLE} playerc++ --atleast-version=2.1 RESULT_VARIABLE res)
+		EXECUTE_PROCESS(COMMAND ${PKG_CONFIG_EXECUTABLE} playerc++ --modversion OUTPUT_VARIABLE ver OUTPUT_STRIP_TRAILING_WHITESPACE)
+		IF(NOT ${res} EQUAL 0)
+			SET(playerver "version ${ver}, i.e., less than 2.1)")
+			SET(PLAYER_DEFINITIONS -DPLAYER_VERSION_LT_2_1)
+		ELSE(NOT ${res} EQUAL 0)
+			SET(playerver "version ${ver}, i.e., greater or equal 2.1")
+		ENDIF(NOT ${res} EQUAL 0)
+	ENDIF(PKG_CONFIG_FOUND)
+ENDIF(PLAYER_FOUND)
+
+

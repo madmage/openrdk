@@ -1,0 +1,24 @@
+
+### Compilation options
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -W -Wall -O2 -ggdb")
+
+### Optional modules/parts compilation
+SET(COMPILE_RCONSOLE 1)         # RConsole
+SET(COMPILE_USARSIM_SECTIONS 1)	# interface modules to USARSim
+SET(COMPILE_NAO_SECTIONS 0)     # modules and libraries for Aldebaran's Nao robot
+SET(SOURCEFORGE_REPOSITORY_PLAYER 0) # whether player is installed using SourceForge tarball
+
+### Uncomment the line below to enable some unit tests on the OpenRDK code
+SET(ENABLE_RDKCORE_TESTS 0)
+SET(ENABLE_SEARCHALGORITHMS_TESTS 0)
+
+IF("${OpenRDK_ARCH}" STREQUAL "geode")
+	SET(COMPILE_RCONSOLE 0)
+	SET(COMPILE_USARSIM_SECTIONS 0)
+	SET(COMPILE_NAO_SECTIONS 1)
+	STRING(REGEX REPLACE "-O." "" CMAKE_CXX_FLAGS ${CMAKE_CXX_FLAGS})
+ELSEIF("${OpenRDK_ARCH}" STREQUAL "arm9")
+	SET(COMPILE_RCONSOLE 0)
+	SET(COMPILE_NAO_SECTIONS 0)
+ENDIF("${OpenRDK_ARCH}" STREQUAL "geode")
+

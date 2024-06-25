@@ -1,0 +1,22 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize=10,labelfontname="FreeSans.ttf",labelfontsize=10];
+  node [fontname="FreeSans.ttf",fontsize=10,shape=record];
+  Node1 [label="RDK2::RepositoryNS::Session::QueueSubscription",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="consumerQueue",fontname="FreeSans.ttf"];
+  Node2 [label="PosixQueues::PipeQueueConsumer\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_posix_queues_1_1_pipe_queue_consumer.html",tooltip="All functions must be called from the same thread."];
+  Node3 -> Node2 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="current\ntoKeep",fontname="FreeSans.ttf"];
+  Node3 [label="vector\< const T * \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node2 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="pipe_buffer",fontname="FreeSans.ttf"];
+  Node4 [label="deque\< const T * \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node2 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="fd_in\nfd_out",fontname="FreeSans.ttf"];
+  Node5 [label="int",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node2 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="name",fontname="FreeSans.ttf"];
+  Node6 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node2 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="lastObject",fontname="FreeSans.ttf"];
+  Node7 [label="T",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node8 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="isListened",fontname="FreeSans.ttf"];
+  Node8 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="mode",fontname="FreeSans.ttf"];
+  Node9 [label="QueueSubscriptionMode",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

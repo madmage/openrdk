@@ -1,0 +1,16 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize=10,labelfontname="FreeSans.ttf",labelfontsize=10];
+  node [fontname="FreeSans.ttf",fontsize=10,shape=record];
+  Node1 [label="RDK2::RepositoryNS::PropertyDef",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="externalFileName",fontname="FreeSans.ttf"];
+  Node2 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="linkTo",fontname="FreeSans.ttf"];
+  Node3 [label="RDK2::RepositoryNS::Url",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_repository_n_s_1_1_url.html"];
+  Node2 -> Node3 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node4 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="persistenceOptions",fontname="FreeSans.ttf"];
+  Node4 [label="int",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="externalFileBinary\nrconsoleEditable",fontname="FreeSans.ttf"];
+  Node5 [label="bool",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node2 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="objectClassName\ndescription",fontname="FreeSans.ttf"];
+}

@@ -1,0 +1,49 @@
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#b625d4233359a376d5eef03adb1a964f" title="RDK2::RepositoryNS::Repository::createSession" alt="" coords="488,5,792,32">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#56909930a095dd4e2d2a45579f0e81d9" title="End the session and complain for forgot locks." alt="" coords="527,892,753,918">
+<area shape="rect" href="$class_r_d_k2_1_1_r_net_objects_1_1_r_net_message.html#df91e5099eda975fcc59bd41263c106d" title="Get type." alt="" coords="500,208,780,234">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#a87a7a54f82f82905791101ed5b5a9c5" title="NOTE: listen implies subscribe." alt="" coords="1553,56,1791,82">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_remote_property_manager.html#2e7023452810d96d51090e9939099e69" title="RDK2::RepositoryNS::RemotePropertyManager::manageSubscriptionMessage" alt="" coords="403,258,877,285">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_remote_property_manager.html#00a4a691ba221f8e11ad9067f1f9e5ec" title="RDK2::RepositoryNS::RemotePropertyManager::manageUpdateMessage" alt="" coords="960,689,1403,716">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#b17f44642dabf3d7f6c6e8b3c13b2fef" title="RDK2::RepositoryNS::Session::queueFreeze" alt="" coords="500,1246,780,1273">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#ca24ba234f34fd352a6ffdcb9fd359c5" title="RDK2::RepositoryNS::Session::queueSetInterests" alt="" coords="484,1018,796,1045">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#6d7e023d7373aeb215f56f940abd662a" title="RDK2::RepositoryNS::Session::queueSubscribe" alt="" coords="491,1069,789,1096">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#ff0e6aac41828e9b02f695d3ddc691f8" title="RDK2::RepositoryNS::Session::queueUnsubscribe" alt="" coords="484,1145,796,1172">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#5d44ffde9de12d82cf3d29510aa707df" title="Start the session." alt="" coords="524,1348,756,1374">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#8120725a6ad31cfdc7a5268bb7a30edf" title="End the session not complaining for forgot locks." alt="" coords="511,942,769,969">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#88b25cf21fcf5296358b18042ee01a95" title="RDK2::RepositoryNS::Session::wait" alt="" coords="525,1398,755,1425">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#ff936230f47beed933e20e2d72252a8c" title="RDK2::RepositoryNS::Session::checkStarted" alt="" coords="1531,1120,1813,1146">
+<area shape="rect" href="$struct_r_d_k2_1_1_profiling_1_1_profiler.html#c5cccc5904e674ad3a960f2498ae5a6e" title="RDK2::Profiling::Profiler::end" alt="" coords="1088,942,1275,969">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#adc1d9bbafc13d203b38a4421dd2c374" title="RDK2::RepositoryNS::Session::getInt" alt="" coords="1061,841,1301,868">
+<area shape="rect" href="$class_r_d_k2_1_1_time_1_1_timer_t.html#66ebad88a0e17dc9bea0356afd726052" title="RDK2::Time::TimerT::getSeconds" alt="" coords="1073,892,1289,918">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#58b2c798afecaf60ccad6385bf358564" title="RDK2::RepositoryNS::Session::setDouble" alt="" coords="1049,993,1313,1020">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#088a22f1d5f31b99ff6b8e28218621f3" title="RDK2::RepositoryNS::Session::setInt" alt="" coords="1061,1044,1301,1070">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#e21d09ed10b43b7a43fe9e864e1edc60" title="Unlock the selected property." alt="" coords="1060,790,1303,817">
+<area shape="rect" href="$struct_r_d_k2_1_1_profiling_1_1_profiler.html#bcef23e98625cdf40f37037f34b9ce4c" title="RDK2::Profiling::Profiler::addCustomLine" alt="" coords="1544,1246,1800,1273">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#c3494b990d9d503d9f03e2755617661a" title="RDK2::RepositoryNS::Repository::unlock" alt="" coords="2057,1069,2316,1096">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#81e5e2c0ad9c376b6e4d43c264398e89" title="RDK2::RepositoryNS::Property::isQueue" alt="" coords="2059,182,2315,209">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_remote_subscription_register.html#3fca39285f393ee93949f29fc72bae58" title="RDK2::RepositoryNS::RemoteSubscriptionRegister::addPropertyToSendSubscription" alt="" coords="927,258,1436,285">
+<area shape="rect" href="$struct_r_d_k2_1_1_repository_n_s_1_1_r_remote_subscription.html#bb388203928d88ea06bfa2795b1bd4b1" title="RDK2::RepositoryNS::RRemoteSubscription::clone" alt="" coords="1515,208,1829,234">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_url.html#7675daf3393f4ad0cb25cddf336ae278" title="Returns the host of the url, if it is complete; otherwise it returns &quot;&quot;..." alt="" coords="2077,309,2296,336">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_remote_subscription_register.html#8f2cfdf070e22b8470eb1988d6f8f839" title="RDK2::RepositoryNS::RemoteSubscriptionRegister::completePropertyToReceiveSubscription" alt="" coords="1907,120,2467,146">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#f3d72055df827b331f72b311dff615d6" title="RDK2::RepositoryNS::Repository::sendStorageValueToHost" alt="" coords="997,360,1365,386">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_url.html#9e90fb1eb460c600234f029ad7e09fc7" title="Url is complete when it has also the host part (i.e. it begins with &quot;rdk://&quot;)..." alt="" coords="2515,309,2755,336">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#42cbc935b2978912170b943a8b41f802" title="RDK2::RepositoryNS::Repository::queuePush" alt="" coords="1529,309,1815,336">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#c5b04454f082e73889fe123081671ef8" title="RDK2::RepositoryNS::Property::getObjectClassName" alt="" coords="2021,486,2352,513">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#4c423050e34a18e0552bd646581b1169" title="RDK2::RepositoryNS::Property::setObjectClassName" alt="" coords="2021,410,2352,437">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#7892a606b34d60877cac570b1634a626" title="RDK2::Object::clone" alt="" coords="1603,461,1741,488">
+<area shape="rect" href="$struct_r_d_k2_1_1_demangle_1_1_reflective.html#9277d1d6deb515a6cf603fd39caf08a8" title="RDK2::Demangle::Reflective::getClassName" alt="" coords="2047,550,2327,577">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#086fdbeeece13e0d47c200094f0f8e72" title="RDK2::Object::applyDiff" alt="" coords="1592,613,1752,640">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#ca50330bc469817022e9f3d0fd824714" title="RDK2::Geometry::diff" alt="" coords="2115,841,2259,868">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#c4a1c6bd8cfbe757d577a8b84d72579d" title="RDK2::RepositoryNS::Repository::getObjectOrCreateItL" alt="" coords="1500,512,1844,538">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#4497ee789162cfbdd0cbf5738eb7bbe1" title="RDK2::RepositoryNS::Repository::getRemoteProperty" alt="" coords="1505,765,1839,792">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#8a73935b55c13b22cd4fd8c7f9c016a0" title="RDK2::RepositoryNS::Repository::lock" alt="" coords="2064,993,2309,1020">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#b1485ae11b0641242486ba15974bea3c" title="RDK2::RepositoryNS::Repository::pushDiffInDiffQueue" alt="" coords="1504,816,1840,842">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#81447cd687a67017ff315bc88e1e2892" title="RDK2::RepositoryNS::Repository::setObject" alt="" coords="1533,917,1811,944">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#4092386ab2cf9321ec508db503bc9a72" title="RDK2::RepositoryNS::Repository::wakeUpListeningSessions" alt="" coords="1485,1018,1859,1045">
+<area shape="rect" href="$class_posix_queues_1_1_pipe_queue_consumer.html#f0f38ebcc5d2c1e9f683615fe01234d1" title="PosixQueues::PipeQueueConsumer::freeze" alt="" coords="1044,1297,1319,1324">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#730651cba74f253e973617ad17f5f957" title="RDK2::RepositoryNS::Property::getObjectAsL" alt="" coords="1037,1145,1325,1172">
+<area shape="rect" href="$class_posix_queues_1_1_pipe_queue.html#49676468759163ad37058fc15ec3eeb1" title="Set filter on objects. The caller continues to own the pointer." alt="" coords="1057,1094,1305,1121">
+<area shape="rect" href="$class_posix_queues_1_1_pipe_queue.html#81c44285413c766597c42c1cb1cb948a" title="c is deleted and no longer valid" alt="" coords="1045,1196,1317,1222">
+<area shape="rect" href="$class_r_d_k2_1_1_time_1_1_timer_r.html#3f0748124691ba5414e4a70527f8dc8d" title="RDK2::Time::TimerR::getSeconds" alt="" coords="1072,1348,1291,1374">
+<area shape="rect" href="$struct_r_d_k2_1_1_profiling_1_1_profiler.html#62c15c2205c00e7db4dc22bffbc4d550" title="RDK2::Profiling::Profiler::start" alt="" coords="1085,1449,1277,1476">
+<area shape="rect" href="$class_r_d_k2_1_1_time_1_1_timer_r.html#6c914fdcb48e097569623822ebcf5ca8" title="RDK2::Time::TimerR::start" alt="" coords="1093,1398,1269,1425">

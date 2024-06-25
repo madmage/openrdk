@@ -1,0 +1,35 @@
+<p>This is your first tutorial about using OpenRDK. After reading this tutorial, you will be able to compile your local copy of the OpenRDK and to launch the first application.</p>
+
+<h2>Installation and compilation</h2>
+<p>In order to install, compile and use OpenRDK, you need some external package. Every linux distribution has its own package manager (Synaptic for Ubuntu, Adept for Kubuntu, Yum for Fedora). You have to open the package manager and to install the following ones (if not installed yet):
+<ul>
+<li>gcc</li>
+<li>g++</li>
+<li>libgsl0</li>
+<li>libgsl0-dev o libgsl0-devel</li>
+<li>libxml2</li>
+<li>libxml2-dev o libxml2-devel</li>
+<li>libqt3-mt o libqt3</li>
+<li>libqt3-mt-dev o libqt3-devel</li>
+</ul>
+</p>
+
+<p>Download the source code of the OpenRDK from the SourceForge repository, either the <pre>.tgz</pre> archive or the <pre>.tar.bz2</pre> archive. Type:
+<code>
+tar xzvf OpenRDK-???.tgz
+</code>
+or
+<code>
+tar xjvf OpenRDK-???.tar.bz2
+</code>
+in which ??? is the version number that you downloaded. After that, enter in the <pre>src</pre> subdirectory. Type:
+<code>
+cmake .
+</code>
+This will configure and prepare the software to be compiled on your machine. Check if something is wrong and try to solve the problems; after that, type:
+<code>
+. setenv<br/>
+make
+</code>
+go to take a cup of coffee and wait for the OpenRDK to be compiled. The <pre>setenv</pre> script need to be run every time you want to compile or to run some OpenRDK application, since it sets some environment variables needed for everything to work.</p>
+

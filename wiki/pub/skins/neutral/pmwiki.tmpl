@@ -1,0 +1,55 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+  <title>$WikiTitle | {$Group} / {$Title} $ActionTitle</title>
+  <meta http-equiv='Content-Style-Type' content='text/css' />
+  <link rel='stylesheet' href='$SkinDirUrl/pmwiki.css' type='text/css' />
+  <!--HTMLHeader-->
+</head>
+<!--PageHeaderFmt-->
+<table id='wikilogo' width='100%'><tr><td width='35%'>
+  <div><a href='{$ScriptUrl}'><img src='$PageLogoUrl'
+    alt='$WikiTitle' border='0' /></a></div></td>
+  <td align='left'><div id='wikitop'> 
+    <!--<a href='{$PageUrl}?action=search&q=link={$FullName}&fmt=simple'>$[Backlinks]</a>--></div></td>
+  <td><div id='wikiindex' align='center'>
+    &nbsp;&nbsp;&nbsp;&nbsp;<!--<a href='{$ScriptUrl}/{$DefaultGroup}.Index' rel='index'>$[Index]</a>--></div></td>
+  <td width='50%'><div id='wikihead'>
+    <form action='{$ScriptUrl}'>
+    <input type='hidden' name='n' value='{$FullName}' />
+    <input type='hidden' name='action' value='search' />
+    <a href='{$ScriptUrl}/$[{$SiteGroup}/Search]'>$[Search]</a>:
+    <input class='searchbox' type='text' name='q' value='' />
+    <input class='searchbutton' type='submit' value='$[Go]' /></form>
+  </div></td></tr></table>
+<!--/PageHeaderFmt-->
+  <table id='wikimid' width='100%' cellspacing='0' cellpadding='0'><tr>
+<!--PageLeftFmt-->
+  <td id='wikileft' valign='top'>
+    <!--wiki:{$Group}.SideBar {$SiteGroup}.SideBar--></td>
+<!--/PageLeftFmt-->
+  <td id='wikibody' valign='top'>
+<!--PageActionFmt-->
+     <div id='wikicmds'><!--wiki:{$Group}.PageActions {$SiteGroup}.PageActions--></div>
+<!--PageTitleFmt-->
+     <div id='wikititle'>
+       <!--<div class='pagegroup'><a href='{$ScriptUrl}/{$Group}'>{$Group}</a> /
+         <a href='{$ScriptUrl}/{$Group}.ModifsDuGroupe' title='$[group recent changes]' accesskey='$[ak_recentchanges]'>_&Delta;_</a></div>
+       <h1 class='pagetitle'>{$Titlespaced}</h1>--></div>
+<!--PageText-->
+  </td></tr></table>
+<!--PageFooterFmt-->
+  <div id='wikifoot'>
+	$LicenseSite
+    <div class='footnav'>
+      <a rel="nofollow" href='{$PageUrl}?action=edit'>$[Edit]</a> -
+      <a rel="nofollow" href='{$PageUrl}?action=diff'>$[History]</a> -
+      <a rel="nofollow" href='{$PageUrl}?action=print' target='_blank'>$[Printable View]</a> -
+      <a href='{$ScriptUrl}/$[{$Group}/RecentChanges]'>$[Recent Changes]</a> -
+      <a rel="nofollow" href='{$ScriptUrl}/$[{$SiteGroup}/Search]'>$[Search]</a></div>
+  <div class='lastmod'><small>$[Page last modified on {$LastModified}]</small></div></div>
+<!--HTMLfooter-->
+</body>
+</html>

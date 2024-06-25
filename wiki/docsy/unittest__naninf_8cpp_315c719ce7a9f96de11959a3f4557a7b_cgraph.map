@@ -1,0 +1,4 @@
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#65cbc3a169a8f73cb56fe70bcaff4b95" title="RDK2::Geometry::float2string" alt="" coords="171,30,363,57">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#90f03f79a75eb44de89bde7e5e89b365" title="Parsing tenendo conto di RDK_NAN_STRING, RDK_INF_STRING." alt="" coords="171,81,363,108">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#6475fc29dd0c83f92fa84c95063051ec" title="Testa se un numero � infinito." alt="" coords="415,5,609,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#e8bc77891702eeb53b06fe2c466f7cf7" title="Testa se un numero � not&#45;a&#45;number." alt="" coords="411,56,613,82">

@@ -1,0 +1,13 @@
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_base_sensor_data.html" title="RDK2::SensorData::BaseSensorData" alt="" coords="1219,399,1456,425">
+<area shape="rect" title="STL class." alt="" coords="920,525,1000,552">
+<area shape="rect" title="STL class." alt="" coords="520,527,685,553">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; double \&gt;" alt="" coords="843,368,1077,395">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3o.html" title="RDK2::Geometry::Point3o\&lt; double \&gt;" alt="" coords="1220,293,1455,320">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; double \&gt;" alt="" coords="489,425,716,452">
+<area shape="rect" href="$classdouble.html" title="double" alt="" coords="220,277,279,304">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; Numeric \&gt;" alt="" coords="481,375,724,401">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3o.html" title="RDK2::Geometry::Point3o\&lt; Numeric \&gt;" alt="" coords="839,188,1081,215">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; Numeric \&gt;" alt="" coords="131,373,368,400">
+<area shape="rect" href="$struct_r_d_k2_1_1_time_1_1_timestamp.html" title="RDK2::Time::Timestamp" alt="" coords="877,452,1043,479">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_laser_parser.html" title="RDK2::SensorData::LaserParser" alt="" coords="1233,449,1441,476">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_parser.html" title="RDK2::SensorData::Parser" alt="" coords="872,576,1048,603">

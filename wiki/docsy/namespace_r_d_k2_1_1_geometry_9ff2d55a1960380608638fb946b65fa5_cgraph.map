@@ -1,0 +1,8 @@
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#ca50330bc469817022e9f3d0fd824714" title="RDK2::Geometry::diff" alt="" coords="285,81,429,108">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#d4e283eaaa6ade98510bc0a2913f51e0" title="RDK2::Geometry::min" alt="" coords="283,132,432,159">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#5319534462e2f1b0cf7a56dad831f7d4" title="RDK2::Geometry::angleDiff" alt="" coords="519,31,697,57">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#d5c206ebd6ee04a1ba05d46aa13d8949" title="RDK2::Geometry::sgn" alt="" coords="533,81,683,108">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#da0508ebe1e17c15cac3f4cc18f4a37a" title="RDK2::Geometry::norm2PI" alt="" coords="789,5,965,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#0d1d765dd1452941239d697b6e2c36b1" title="RDK2::Geometry::norm2PIX" alt="" coords="784,56,971,83">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#dbc3a4433c4164f53203aa2876e3d8fb" title="RDK2::Geometry::norm" alt="" coords="1019,31,1176,57">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html#40eafa9146f785b3902a8c9b1d06575e" title="RDK2::Geometry::Point2\&lt; double \&gt;::min" alt="" coords="480,132,736,159">

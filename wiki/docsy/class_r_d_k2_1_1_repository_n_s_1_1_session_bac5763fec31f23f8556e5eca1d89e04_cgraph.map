@@ -1,0 +1,12 @@
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#a2521737fe238aea6e8ee3a05fb3bcf6" title="Create a property with &quot;special&quot; type." alt="" coords="371,107,659,133">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#ff936230f47beed933e20e2d72252a8c" title="RDK2::RepositoryNS::Session::checkStarted" alt="" coords="717,5,1000,32">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#e351413b2d92399b16b453337175ce6e" title="RDK2::RepositoryNS::Repository::createStorage" alt="" coords="708,56,1009,83">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#21a63108c47a913e2714ce2bb0195788" title="Get absolute url from (possibly relative)." alt="" coords="713,107,1004,133">
+<area shape="rect" href="$class_posix_constructs_1_1_posix_mutex.html#45e42845140324802a68a81ec1d9ee09" title="PosixConstructs::PosixMutex::lock" alt="" coords="745,157,972,184">
+<area shape="rect" href="$class_posix_constructs_1_1_posix_mutex.html#f735e71d6e450bfc520527f37fab8edc" title="PosixConstructs::PosixMutex::unlock" alt="" coords="739,208,979,235">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_url.html#fb560d1f59472ca8e87f7c6e02f8adf5" title="RDK2::RepositoryNS::Url::contextualize" alt="" coords="1060,107,1311,133">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#ea47a334d11bf8f87fb75375d5d4e915" title="RDK2::Geometry::normalize" alt="" coords="1360,81,1544,108">
+<area shape="rect" href="$namespace_r_d_k2_1_1_text_utils.html#7f9bdaf4c45d4a4580c9b70ff006220a" title="RDK2::TextUtils::tokenize" alt="" coords="1367,132,1537,159">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#cf8d5086b9d911e7c5b58eee2c4b115c" title="RDK2::Geometry::DMatrix::columns" alt="" coords="1596,31,1825,57">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#9c47023743136b1ec9c53173f03b8f2f" title="RDK2::Geometry::DMatrix::getElems" alt="" coords="1593,81,1828,108">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#2c1b85126c7683b5960d90209eaf68de" title="RDK2::Geometry::DMatrix::rows" alt="" coords="1607,132,1815,159">

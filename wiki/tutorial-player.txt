@@ -1,0 +1,25 @@
+<p>This is the tutorial about how to use OpenRDK together with Player/Stage, in order to have a simulated robot in a 2D world on your own PC.</p>
+
+<h2>Installation of Player/Stage</h2>
+<p>You have two choices: either you use the Player/Stage that comes with your distribution (you can find it, for example, in Ubuntu/Kubuntu distributions), or you download the tarball from the Player/Stage website and use that one. The example explained in this tutorial has been tested with Player/Stage 2.0.3 and 2.0.4.</p>
+
+<p>Now you need to make OpenRDK aware of the presence of Player/Stage. In order to do this, go to <pre>src</pre> directory and edit the <pre>manual.cmake</pre> file. You have to set to <pre>1</pre> the variable <pre>PLAYER_FOUND</pre> and, if you chose to use the SourceForge version of Player/Stage, you need to set to <pre>1</pre> also the following variable: <pre>SOURCEFORGE_REPOSITORY_PLAYER</pre>.</p>
+
+<p>Now, as every other time that you make changes in <pre>manual.cmake</pre> file, run:
+<code>
+cmake .
+</code>
+and then
+<code>
+make
+</code>
+now the player client module should be compiled and ready to use. We will use a configuration that works as shown in the following figure:
+<center><img src="tutorial-player-config.png"/></center>
+in which the RDK Agent, thanks to the PlayerClientModule, is able to communicate to the Player server, that, in its turn, is connected to the Stage 2D simulator. Since the RDK Agent is a RConsole, we are able to inspect its properties and act on them.</p>
+
+<p>As you can see, the modules of the GUI are in the same agent of the task-related modules. This can be used as a simple solution when you are testing your algorithms. When you want to deploy your application, all you need to do is to remove the GUI modules from the agent. You can create another agent with only the GUI modules and connect with the first one.</p>
+
+<center><img src="rconsole-remote.png"/></center>
+
+<p>The agent that is running now has inside also some more interesting modules. You can open the robot controller from the "Tools" menu and start moving the robot in the simulated world. If you open the property <pre>/mapper/out/map</pre> you will see the map created by the module <pre>mapper</pre> while the robot moves. You can enable the module <pre>randomMotion</pre> to make it moving randomly around the environment. To enable a module, you can either right-click on the module name, or you can set by hand the property <pre>enabled</pre> that each module has.</p>
+

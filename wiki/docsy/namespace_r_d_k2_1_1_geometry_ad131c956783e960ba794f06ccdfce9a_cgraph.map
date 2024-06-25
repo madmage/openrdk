@@ -1,0 +1,8 @@
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#cf8d5086b9d911e7c5b58eee2c4b115c" title="RDK2::Geometry::DMatrix::columns" alt="" coords="791,5,1020,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#89e99bb97dcd388e525fec8768ebdac6" title="RDK2::Geometry::eig22_gsl" alt="" coords="315,81,499,108">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#2c1b85126c7683b5960d90209eaf68de" title="RDK2::Geometry::DMatrix::rows" alt="" coords="801,107,1009,133">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#bff7c14005014338e9f69f2ee374aa6a" title="RDK2::Geometry::DMatrix::inv" alt="" coords="308,208,505,235">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#447902083df7bba15979e6d67e7f3fb0" title="RDK2::Geometry::copy" alt="" coords="571,56,725,83">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#104fc9635e38183bb64fd9189bf967c4" title="Returns the identity matrix." alt="" coords="556,208,740,235">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#5dcdcfc808410ab2247649c2e7de3202" title="RDK2::Geometry::DMatrix::setAll" alt="" coords="799,208,1012,235">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#24ff4199981fe4c6d79d44f73cbf233c" title="These methods do the copy&#45;on&#45;write." alt="" coords="1071,208,1308,235">

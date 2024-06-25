@@ -1,0 +1,15 @@
+<area shape="rect" href="$class_r_d_k2_1_1_object.html" title="La nuova e purificata RDK2::Object." alt="" coords="1300,124,1401,151">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_readable.html" title="RDK2::Serialization::Readable" alt="" coords="857,107,1052,133">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_writable.html" title="RDK2::Serialization::Writable" alt="" coords="860,5,1049,32">
+<area shape="rect" href="$struct_r_d_k2_1_1_demangle_1_1_reflective.html" title="RDK2::Demangle::Reflective" alt="" coords="861,56,1048,83">
+<area shape="rect" title="STL class." alt="" coords="915,291,995,317">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_base_sensor_data.html" title="RDK2::SensorData::BaseSensorData" alt="" coords="1232,369,1469,396">
+<area shape="rect" title="STL class." alt="" coords="520,291,685,317">
+<area shape="rect" href="$struct_r_d_k2_1_1_time_1_1_timestamp.html" title="RDK2::Time::Timestamp" alt="" coords="872,189,1037,216">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_odometry_data.html" title="RDK2::SensorData::OdometryData" alt="" coords="1584,343,1808,369">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; double \&gt;" alt="" coords="837,425,1072,452">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; double \&gt;" alt="" coords="489,407,716,433">
+<area shape="rect" href="$classdouble.html" title="double" alt="" coords="220,439,279,465">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; Numeric \&gt;" alt="" coords="481,353,724,380">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; Numeric \&gt;" alt="" coords="131,289,368,316">
+<area shape="rect" href="$classbool.html" title="bool" alt="" coords="1328,319,1373,345">

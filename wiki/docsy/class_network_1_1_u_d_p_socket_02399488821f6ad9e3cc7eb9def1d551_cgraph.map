@@ -1,0 +1,4 @@
+<area shape="rect" href="$class_network_1_1_u_d_p_socket.html#3848a78ce06274409ce19c46ce8fe413" title="Network::UDPSocket::recv" alt="" coords="233,56,409,83">
+<area shape="rect" href="$class_network_1_1_inet_address.html#31a0bb9a5be201f83f9af042d7820fc3" title="Get the struct sockaddr_in ( const version )." alt="" coords="465,6,684,32">
+<area shape="rect" href="$class_network_1_1_inet_address.html#02a67b3d1b7258f5312dc03b99e22b3c" title="Get the ip address in dot notation." alt="" coords="459,56,691,83">
+<area shape="rect" href="$class_network_1_1_inet_address.html#44461e88c753f2326ca434ed04d2685f" title="Get the port." alt="" coords="477,107,672,134">

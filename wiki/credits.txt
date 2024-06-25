@@ -1,0 +1,12 @@
+<h2>Credits</h2>
+
+<p>OpenRDK is the result of the development activity in the <a href="http://sied.dis.uniroma1.it/">SIED Laboratory</a>, whose coordinator is <a href="http://www.dis.uniroma1.it/~nardi">Prof. Daniele Nardi.</a>.</p>
+
+<p><a href="http://www.dis.uniroma1.it/~calisi" target="_BLANK">Daniele Calisi</a> and <a href="http://www.cds.caltech.edu/~andrea/" target="_BLANK">Andrea Censi</a> have designed and implemented this framework.</p>
+
+<p><a href="http://www.dis.uniroma1.it/~farinell" target="_BLANK">Alessandro Farinelli</a>, <a href="http://www.informatik.uni-freiburg.de/~grisetti/" target="_BLANK">Giorgio Grisetti</a> and <a href="http://www.dis.uniroma1.it/~iocchi" target="_BLANK">Luca Iocchi</a> gave their contribution in the architecture definition and implementation.</p>
+
+<p>The previous framework of our laboratory, on which Giorgio Grisetti, Alessandro Farinelli and Luca Iocchi worked hard, was named SPQR-RDK; here is a pubblication about it:<br/>
+<a href="http://www.dis.uniroma1.it/~iocchi/publications/iocchi-ars06.pdf">
+<b>Design and implementation of modular software for programming mobile robots</b></a> A. Farinelli, G. Grisetti, L. Iocchi. <i>International Journal of Advanced Robotic Systems</i>, 3 (1), pp. 37-42, March 2006.</p>
+

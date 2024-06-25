@@ -1,0 +1,19 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize=10,labelfontname="FreeSans.ttf",labelfontsize=10];
+  node [fontname="FreeSans.ttf",fontsize=10,shape=record];
+  rankdir=LR;
+  Node1 [label="RDK2::SensorData::LaserDataTracker::update",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="RDK2::Geometry::Point2::distTo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_r_d_k2_1_1_geometry_1_1_point2.html#2aba22808503edca6ff69ee2e50e1f08",tooltip="Returns the distance between this point and p."];
+  Node1 -> Node3 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="RDK2::SensorData::LaserData::getNearestIndex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html#3d5f2dbbd9f3bc9c16054129d8a5ed90"];
+  Node3 -> Node4 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="RDK2::SensorData::LaserData::getRayWidth",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html#7e88b0fbdd32af8bd112a3281d2332c4"];
+  Node1 -> Node4 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node1 -> Node5 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node5 [label="RDK2::Geometry::Point2::rot",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_r_d_k2_1_1_geometry_1_1_point2.html#9afc56e36c988e7a9158691df64def79",tooltip="Rotate this vector of."];
+  Node1 -> Node6 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node6 [label="RDK2::SensorData::LaserData::updateThetas",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html#590f90cf0b568d64561803bfaecb387a"];
+  Node6 -> Node4 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+}

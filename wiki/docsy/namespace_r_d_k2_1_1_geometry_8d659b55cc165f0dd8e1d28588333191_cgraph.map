@@ -1,0 +1,6 @@
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#b65b4b03c05757042d778952107f3a42" title="RDK2::Geometry::DMatrix::el" alt="" coords="303,5,495,32">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#bff7c14005014338e9f69f2ee374aa6a" title="RDK2::Geometry::DMatrix::inv" alt="" coords="300,56,497,83">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#000ae6c4db95fad073fef308186f8e12" title="RDK2::Geometry::DMatrix::isInside" alt="" coords="547,5,773,32">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#104fc9635e38183bb64fd9189bf967c4" title="Returns the identity matrix." alt="" coords="568,56,752,83">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#5dcdcfc808410ab2247649c2e7de3202" title="RDK2::Geometry::DMatrix::setAll" alt="" coords="823,56,1036,83">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#24ff4199981fe4c6d79d44f73cbf233c" title="These methods do the copy&#45;on&#45;write." alt="" coords="1087,56,1324,83">

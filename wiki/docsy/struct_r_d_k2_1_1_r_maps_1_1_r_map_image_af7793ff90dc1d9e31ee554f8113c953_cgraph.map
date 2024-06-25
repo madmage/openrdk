@@ -1,0 +1,10 @@
+<area shape="rect" href="$class_r_d_k2_1_1_r_graphics_1_1_r_image.html#71bfe4539094c0ee6da650ed99154870" title="RDK2::RGraphics::RImage::canvasResize" alt="" coords="340,82,607,108">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_map_image.html#ae57608936908051f9c7b4f284e12f19" title="RDK2::RMaps::RMapImage::getMapDelta" alt="" coords="341,144,605,171">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_map_image.html#fdaa1fd9418016743c2ae19b4d2398c3" title="ritorna true se dentro" alt="" coords="351,195,596,222">
+<area shape="rect" href="$class_r_d_k2_1_1_r_graphics_1_1_r_image.html#0a9086cce515a6052ad46a8b9b6357b9" title="RDK2::RGraphics::RImage::initBuffer" alt="" coords="657,6,892,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#622feafd160df364c9e67c1aeaddd511" title="RDK2::Geometry::max" alt="" coords="699,56,851,83">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#d4e283eaaa6ade98510bc0a2913f51e0" title="RDK2::Geometry::min" alt="" coords="700,107,849,134">
+<area shape="rect" href="$class_r_d_k2_1_1_r_graphics_1_1_r_image.html#35f5dde321a067e79bead812edaa1d8c" title="RDK2::RGraphics::RImage::getBytesPerPixel" alt="" coords="943,6,1228,32">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html#f7734b6940a3644ac34d2c396882df95" title="RDK2::Geometry::Point2\&lt; double \&gt;::max" alt="" coords="956,56,1215,83">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html#40eafa9146f785b3902a8c9b1d06575e" title="RDK2::Geometry::Point2\&lt; double \&gt;::min" alt="" coords="957,107,1213,134">
+<area shape="rect" href="$class_r_d_k2_1_1_r_graphics_1_1_r_image.html#0ee8f4e4acf98cf73b809d60d3babcaa" title="RDK2::RGraphics::RImage::getWidth" alt="" coords="657,158,892,184">

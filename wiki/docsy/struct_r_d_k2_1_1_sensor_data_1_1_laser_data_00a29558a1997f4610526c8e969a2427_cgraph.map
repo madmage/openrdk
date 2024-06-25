@@ -1,0 +1,7 @@
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#b65b4b03c05757042d778952107f3a42" title="RDK2::Geometry::DMatrix::el" alt="" coords="687,5,879,32">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html#dbba3559751ba9e7a771f9df2b3f7eed" title="Returns the (unscaled) 1x1 Fisher&#39;s information matrix for theta." alt="" coords="315,93,627,120">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html#b68b05265e40fe268cd80b45d87744b3" title="Returns the (unscaled) 2x2 Fisher&#39;s information matrix for (x,y)." alt="" coords="323,43,619,69">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#5dcdcfc808410ab2247649c2e7de3202" title="RDK2::Geometry::DMatrix::setAll" alt="" coords="676,132,889,159">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#000ae6c4db95fad073fef308186f8e12" title="RDK2::Geometry::DMatrix::isInside" alt="" coords="945,5,1172,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#b0bec4fd388ce3c7f8c51f48a9cc2f65" title="RDK2::Geometry::square" alt="" coords="699,81,867,108">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#24ff4199981fe4c6d79d44f73cbf233c" title="These methods do the copy&#45;on&#45;write." alt="" coords="940,132,1177,159">

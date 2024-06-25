@@ -1,0 +1,49 @@
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#086fdbeeece13e0d47c200094f0f8e72" title="RDK2::Object::applyDiff" alt="" coords="605,5,765,32">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#7892a606b34d60877cac570b1634a626" title="RDK2::Object::clone" alt="" coords="1496,132,1635,159">
+<area shape="rect" href="$struct_r_d_k2_1_1_demangle_1_1_reflective.html#9277d1d6deb515a6cf603fd39caf08a8" title="RDK2::Demangle::Reflective::getClassName" alt="" coords="1985,132,2265,159">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#ca50330bc469817022e9f3d0fd824714" title="RDK2::Geometry::diff" alt="" coords="1015,1247,1159,1273">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#c5b04454f082e73889fe123081671ef8" title="RDK2::RepositoryNS::Property::getObjectClassName" alt="" coords="921,411,1252,437">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#c4a1c6bd8cfbe757d577a8b84d72579d" title="RDK2::RepositoryNS::Repository::getObjectOrCreateItL" alt="" coords="513,284,857,311">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_url.html#9e90fb1eb460c600234f029ad7e09fc7" title="Url is complete when it has also the host part (i.e. it begins with &quot;rdk://&quot;)..." alt="" coords="2901,885,3141,912">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#4c423050e34a18e0552bd646581b1169" title="RDK2::RepositoryNS::Property::setObjectClassName" alt="" coords="1400,360,1731,387">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#4497ee789162cfbdd0cbf5738eb7bbe1" title="RDK2::RepositoryNS::Repository::getRemoteProperty" alt="" coords="920,1120,1253,1147">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#8a73935b55c13b22cd4fd8c7f9c016a0" title="RDK2::RepositoryNS::Repository::lock" alt="" coords="964,1019,1209,1045">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#b1485ae11b0641242486ba15974bea3c" title="RDK2::RepositoryNS::Repository::pushDiffInDiffQueue" alt="" coords="517,816,853,843">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#42cbc935b2978912170b943a8b41f802" title="RDK2::RepositoryNS::Repository::queuePush" alt="" coords="543,639,828,665">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#81447cd687a67017ff315bc88e1e2892" title="RDK2::RepositoryNS::Repository::setObject" alt="" coords="547,588,824,615">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#c3494b990d9d503d9f03e2755617661a" title="RDK2::RepositoryNS::Repository::unlock" alt="" coords="957,917,1216,944">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#4092386ab2cf9321ec508db503bc9a72" title="RDK2::RepositoryNS::Repository::wakeUpListeningSessions" alt="" coords="499,949,872,976">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#7271ff5f9d920962422e67f63941e1d7" title="RDK2::Demangle::demangle" alt="" coords="2545,132,2729,159">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#3b6ace6c9a840f7b51ecf66316288b77" title="RDK2::Demangle::deleteNamespaces" alt="" coords="2901,107,3141,133">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#41de781c3ef20c38d0c14456e62948fb" title="RDK2::Demangle::rdemangle" alt="" coords="2927,157,3116,184">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#8c0c7c9ce4814fbb1211ff3062318dd2" title="RDK2::Demangle::try_type" alt="" coords="3189,157,3365,184">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#1c106ed97b848640e31942ab6d072c41" title="RDK2::Demangle::native_type" alt="" coords="3425,31,3620,57">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#7096de8a7c46985a70bfccb0a972d6be" title="RDK2::Demangle::pointer" alt="" coords="3439,81,3607,108">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#03e2733aa0b1679dbb067e00b8d762cd" title="RDK2::Demangle::qualified_class" alt="" coords="3415,132,3631,159">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#ae0712d935474246b50d911fada13230" title="RDK2::Demangle::reference" alt="" coords="3431,183,3615,209">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#49a854f4a3d0e04c97304667cc66b8a1" title="RDK2::Demangle::simple_class" alt="" coords="3420,233,3625,260">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#8a9767825f195a1be60a0e440a17122d" title="RDK2::Demangle::template_class" alt="" coords="3415,284,3631,311">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#5319534462e2f1b0cf7a56dad831f7d4" title="RDK2::Geometry::angleDiff" alt="" coords="1476,1259,1655,1285">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#d5c206ebd6ee04a1ba05d46aa13d8949" title="RDK2::Geometry::sgn" alt="" coords="1491,1309,1640,1336">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#da0508ebe1e17c15cac3f4cc18f4a37a" title="RDK2::Geometry::norm2PI" alt="" coords="2037,1265,2213,1292">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#0d1d765dd1452941239d697b6e2c36b1" title="RDK2::Geometry::norm2PIX" alt="" coords="2032,1316,2219,1343">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#dbc3a4433c4164f53203aa2876e3d8fb" title="RDK2::Geometry::norm" alt="" coords="2559,1277,2716,1304">
+<area shape="rect" href="$namespace_r_d_k2_1_1_meta.html#1665dcb095d0f5cedb792577b1f1522c" title="RDK2::Meta::forName" alt="" coords="1012,208,1161,235">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#455f9abc0761b421f97f3da068d9b7c8" title="RDK2::RepositoryNS::Property::getObjectL" alt="" coords="951,157,1223,184">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#f20366ba2df8ed460a799e44d504b108" title="RDK2::RepositoryNS::Repository::getProperty" alt="" coords="1421,848,1709,875">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#e3490c220f8c3ab0d2485ed0c5c3349b" title="RDK2::RepositoryNS::Property::setObjectL" alt="" coords="951,259,1223,285">
+<area shape="rect" href="$namespace_r_d_k2_1_1_meta.html#0d3aef9b5b7c6e11161ac18921fa7435" title="RDK2::Meta::getClass2prot" alt="" coords="1476,208,1655,235">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_url.html#1f0e7e4aa59080900c84f132c1f96c30" title="RDK2::RepositoryNS::Url::getPath" alt="" coords="2016,860,2235,887">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#cd0dedc2d8e3c138252e4fe33846fbca" title="RDK2::RepositoryNS::Property::isLink" alt="" coords="2004,809,2247,836">
+<area shape="rect" href="$class_posix_constructs_1_1_posix_mutex.html#45e42845140324802a68a81ec1d9ee09" title="PosixConstructs::PosixMutex::lock" alt="" coords="2012,961,2239,988">
+<area shape="rect" href="$class_posix_constructs_1_1_posix_mutex.html#f735e71d6e450bfc520527f37fab8edc" title="PosixConstructs::PosixMutex::unlock" alt="" coords="2005,759,2245,785">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_url.html#7675daf3393f4ad0cb25cddf336ae278" title="Returns the host of the url, if it is complete; otherwise it returns &quot;&quot;..." alt="" coords="2528,809,2747,836">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_remote_subscription_register.html#3cfa3512c06f5b644cf9af56d8038f21" title="RDK2::RepositoryNS::RemoteSubscriptionRegister::addPropertyToReceiveSubscription" alt="" coords="1301,1113,1829,1140">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_remote_subscription_register.html#576b56dbf5b8455b7d029cfc86b344ed" title="RDK2::RepositoryNS::RemoteSubscriptionRegister::queryForPropertiesToReceive" alt="" coords="1877,1215,2373,1241">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_session.html#3039cfa4eec6a51ee5d451d5fd3d052a" title="RDK2::RepositoryNS::Session::getSessionName" alt="" coords="1973,1113,2277,1140">
+<area shape="rect" href="$struct_r_d_k2_1_1_repository_n_s_1_1_r_remote_subscription.html#a5e17e632b1047b1ed686c19f77d6b4f" title="Returns a string to be used to visualize the object." alt="" coords="2423,1201,2852,1228">
+<area shape="rect" href="$namespace_network.html#caffb4fb20080680f8a1d5768e423f9d" title="Network::netProtocolToString" alt="" coords="2927,1201,3116,1228">
+<area shape="rect" href="$class_posix_queues_1_1_pipe_queue.html#fb2a3e8e91e5ce3b96a193308bcdc310" title="PosixQueues::PipeQueue::gc" alt="" coords="991,816,1183,843">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#b8ad9838f24d17939268be462d72079c" title="RDK2::RepositoryNS::Property::isStorage" alt="" coords="955,765,1219,792">
+<area shape="rect" href="$class_posix_queues_1_1_pipe_queue.html#c8937b1d315e4969ba05a5c3aa3932f7" title="ob is now property of this queue" alt="" coords="983,867,1191,893">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html#81e5e2c0ad9c376b6e4d43c264398e89" title="RDK2::RepositoryNS::Property::isQueue" alt="" coords="959,715,1215,741">

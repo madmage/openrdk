@@ -1,0 +1,6 @@
+# exported RDK environment variables
+SET(ENV{RDK_LOG} "debug")
+SET(ENV{RDK_LOG_COLOR} "1")
+SET(ENV{RDK_ROOT} "@OpenRDK_ROOT@")
+SET(ENV{RDK_BUILD_DIR} "@OpenRDK_OUTPUT_TREE@")
+SET(ENV{PATH} "$ENV{PATH}:@OpenRDK_OUTPUT_TREE@/bin:@OpenRDK_OUTPUT_TREE@/binext")

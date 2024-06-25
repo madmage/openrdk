@@ -1,0 +1,18 @@
+<area shape="rect" href="$class_r_d_k2_1_1_object.html" title="La nuova e purificata RDK2::Object." alt="" coords="1327,124,1428,151">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_readable.html" title="RDK2::Serialization::Readable" alt="" coords="876,56,1071,83">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_writable.html" title="RDK2::Serialization::Writable" alt="" coords="879,107,1068,133">
+<area shape="rect" href="$struct_r_d_k2_1_1_demangle_1_1_reflective.html" title="RDK2::Demangle::Reflective" alt="" coords="880,5,1067,32">
+<area shape="rect" title="STL class." alt="" coords="933,275,1013,301">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_base_sensor_data.html" title="RDK2::SensorData::BaseSensorData" alt="" coords="1259,388,1496,415">
+<area shape="rect" title="STL class." alt="" coords="529,253,695,280">
+<area shape="rect" href="$struct_r_d_k2_1_1_time_1_1_timestamp.html" title="RDK2::Time::Timestamp" alt="" coords="891,183,1056,209">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_xsens_data.html" title="RDK2::SensorData::XsensData" alt="" coords="1561,476,1764,503">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; double \&gt;" alt="" coords="856,432,1091,459">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; double \&gt;" alt="" coords="499,475,725,501">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3.html" title="RDK2::Geometry::Point3\&lt; double \&gt;" alt="" coords="860,491,1087,517">
+<area shape="rect" href="$classdouble.html" title="double" alt="" coords="220,555,279,581">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; Numeric \&gt;" alt="" coords="491,359,733,385">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_quaternion.html" title="RDK2::Geometry::Quaternion\&lt; double \&gt;" alt="" coords="1251,569,1504,596">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_quaternion.html" title="RDK2::Geometry::Quaternion\&lt; Numeric \&gt;" alt="" coords="480,680,744,707">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; Numeric \&gt;" alt="" coords="131,329,368,356">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3.html" title="RDK2::Geometry::Point3\&lt; Numeric \&gt;" alt="" coords="493,304,731,331">

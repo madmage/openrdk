@@ -1,0 +1,125 @@
+<!DOCTYPE 
+  HTML PUBLIC 
+  "-//W3C//DTD HTML 4.01 Transitional//EN" 
+  "http://www.w3.org/TR/html4/loose.dtd">
+
+<!--
+
+//
+// Copyright (C) Julian I. Kamil <julian.kamil@gmail.com>
+// No warranty is provided.  Use at your own risk.
+//
+// Commercial support is available through ESV Media Group
+// who can be reached at: http://www.ESV-i.com/.
+//
+// Name: simple.tmpl
+// Author: Julian I. Kamil <julian.kamil@gmail.com>
+// Created: 2005-05-18
+// Description:
+//     This is a simple skin for PmWiki. Please see:
+//         http://www.madhckr.com/project/PmWiki/SimpleSkin
+//     for a live example and doumentation.
+//
+// $Id: simple.tmpl,v 1.1 2005/08/17 19:24:54 julian Exp $
+//
+// History:
+//     2005-05-18  jik  Created.
+//     2005-06-21  jik  Added the directive that enables
+//                      the injection of additional stylesheets.
+//     2005/06/27  jik  Added SkinTone feature.
+//     2005/07/06  jik  Added group name in the title.
+//     2005/07/15  jik  Added code to style abbr on IE.
+//
+//     2005-11-02  ksc  Added SideBar & removed menu
+//                      Fixed IE detection
+//		2005-11-06	ksc	Changed old menu style in favor of *.PageActions (suggested by MarcSeibert)
+//						Fixed goofed isIE var
+//
+-->
+
+<html>
+    <head>
+        <title>$WikiTitle : $Group - $Titlespaced $Action</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <!--HeaderText-->
+        <link rel='stylesheet' title="(NotSo) Simple" href='$SkinDirUrl/notsosimple.css' type='text/css' />
+
+		<script type="text/javascript">
+		<!-- //
+		
+		isIE = 0;
+		browser_type = navigator.appName;
+		if (browser_type == "Microsoft Internet Explorer") { 
+			document.write("<link href='$SkinDirUrl/notsosimple-ie.css' rel='stylesheet' type='text/css' />"); 
+			isIE = 1;
+		}
+
+        function styleAbbr() {
+            var oldBodyText, newBodyText, reg;
+            if (isIE) {
+                oldBodyText = document.body.innerHTML;
+                reg = /<ABBR([^>]*)>([^<]*)<\/ABBR>/g;
+                newBodyText = oldBodyText.replace(reg, '<ABBR $1><SPAN class=\"abbr\" $1>$2</SPAN></ABBR>');
+                document.body.innerHTML = newBodyText;
+            }
+        }
+
+        window.onload = function(){
+            styleAbbr();
+        };
+
+        // -->
+        </script>
+    </head>
+
+    <body bgcolor="#ffffff">
+	    
+		<div id="header" style="border: 1px none #ccf; 
+			background: url($SkinDirUrl/image/Box-Top-$SkinTone.jpg) no-repeat; " 
+            title='$[$Group &raquo; $Titlespaced was last modified on $LastModified]'>
+            <table width="100%" style="padding: 0px; margin:0px;">
+                <tr>
+                    <td style="padding: 0px; margin:0px; border: none;">
+                        <div id="page-title">$SkinHomeLink</div>
+                        <div id="page-subtitle">$SkinGroupFmt :: $SkinTitleFmt</div>
+                    </td>
+                    <td align="right" width="120" 
+                        style="padding: 0px; margin:0px; padding-top: 16px; border: none;">
+                        <center>
+                            <a href="$ScriptUrl/$[Main]"><img src="$PageLogoUrl" border="0" /></a>
+                        </center>
+                    </td>
+                </tr>
+            </table>
+        </div>
+
+        <div id="main">
+            <div id="menubar" $SkinMenuBarVisible>
+                <div id="wikicmds" align="right">
+					<!--wiki:$Group.PageActions $SiteGroup.PageActions-->
+                </div>
+                <div class="clearer"></div>
+            </div>
+
+            <div class="content-mat">
+                <div id="content">
+					<div id='sidebar'><!--wiki:$Group.SideBar $SiteGroup.SideBar--></div>
+                    <!--PageText-->
+                </div>
+                <div class="clearer"></div>
+            </div>
+        </div>
+
+        <div id="footer">
+            <div id="copyright">
+                <span style="float: left; padding-left: 20px;">
+                    $SkinCopyright
+                </span>
+                <span style="float: right; display: block; padding-right: 20px;">
+                    $SkinPoweredBy
+                </span>
+            </div>
+        </div>
+
+    </body>
+</html>

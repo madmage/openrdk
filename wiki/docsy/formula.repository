@@ -1,0 +1,9 @@
+\form#0:$ @theta $
+\form#1:$ @gamma $
+\form#2:$ @phi $
+\form#3:$ round(\frac{\theta - \theta_{min}}{d}) $
+\form#4:$ d = \frac{\theta_{max} - \theta_{min}}{n_{points} - 1} $
+\form#5:$ \frac{\theta_{max} - \theta_{min}}{n_{points} - 1} $
+\form#6:$ \theta_{min} $
+\form#7:$ \theta_{max} $
+\form#8:$ \frac{1}{\sigma^2} $

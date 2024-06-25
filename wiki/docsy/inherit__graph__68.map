@@ -1,0 +1,119 @@
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_base_sensor_data.html" title="RDK2::SensorData::BaseSensorData" alt="" coords="5,546,243,572">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_landmark.html" title="RDK2::RMaps::RLandmark" alt="" coords="1079,292,1257,319">
+<area shape="rect" href="$class_r_d_k2_1_1_r_sensor_data_1_1_r_stereo_image_heights_data.html" title="RDK2::RSensorData::RStereoImageHeightsData" alt="" coords="684,647,985,674">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_usar_victim_data.html" title="RDK2::RSensorData::RUsarVictimData" alt="" coords="711,698,959,724">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_actua_data.html" title="RDK2::SensorData::ActuaData" alt="" coords="363,748,563,775">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_irc_data.html" title="RDK2::SensorData::IrcData" alt="" coords="372,850,553,876">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html" title="RDK2::SensorData::LaserData" alt="" coords="364,191,561,218">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_odometry_data.html" title="RDK2::SensorData::OdometryData" alt="" coords="351,394,575,420">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_pantilt_data.html" title="RDK2::SensorData::PantiltData" alt="" coords="361,444,564,471">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_sonar_data.html" title="RDK2::SensorData::SonarData" alt="" coords="363,495,563,522">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_unknown.html" title="RDK2::SensorData::Unknown" alt="" coords="367,546,559,572">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_xsens_data.html" title="RDK2::SensorData::XsensData" alt="" coords="361,596,564,623">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_actua_data.html" title="RDK2::RSensorData::RActuaData" alt="" coords="725,748,944,775">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_irc_data.html" title="RDK2::RSensorData::RIrcData" alt="" coords="735,850,935,876">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_laser_data.html" title="RDK2::RSensorData::RLaserData" alt="" coords="727,191,943,218">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_odometry_data.html" title="RDK2::RSensorData::ROdometryData" alt="" coords="715,444,955,471">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_odometry_data_with_speed.html" title="RDK2::RSensorData::ROdometryDataWithSpeed" alt="" coords="683,394,987,420">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_pantilt_data.html" title="RDK2::RSensorData::RPantiltData" alt="" coords="724,495,945,522">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_sonar_data.html" title="RDK2::RSensorData::RSonarData" alt="" coords="725,546,944,572">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_xsens_data.html" title="RDK2::RSensorData::RXsensData" alt="" coords="724,596,945,623">
+<area shape="rect" href="$class_posix_queues_1_1_pipe_queue.html" title="PosixQueues::PipeQueue\&lt; RDK2::Object \&gt;" alt="" coords="325,799,600,826">
+<area shape="rect" href="$struct_r_d_k2_1_1_repository_n_s_1_1_r_object_pipe_queue.html" title="RDK2::RepositoryNS::RObjectPipeQueue" alt="" coords="704,799,965,826">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; Numeric \&gt;" alt="" coords="344,242,581,268">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; Numeric \&gt;" alt="" coords="713,90,956,116">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3.html" title="RDK2::Geometry::Point3\&lt; Numeric \&gt;" alt="" coords="716,140,953,167">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_geometry_1_1_r_point2d.html" title="RDK2::RGeometry::RPoint2d" alt="" coords="740,343,929,370">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_geometry_1_1_r_point2i.html" title="RDK2::RGeometry::RPoint2i" alt="" coords="741,292,928,319">
+<area shape="rect" href="$class_r_d_k2_1_1_r_graphics_1_1_r_image_point_c8.html" title="RDK2::RGraphics::RImagePointC8" alt="" coords="723,242,947,268">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3o.html" title="RDK2::Geometry::Point3o\&lt; Numeric \&gt;" alt="" coords="1047,140,1289,167">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_geometry_1_1_r_point3od.html" title="RDK2::RGeometry::RPoint3od" alt="" coords="1349,1078,1547,1104">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_geometry_1_1_r_point3d.html" title="RDK2::RGeometry::RPoint3d" alt="" coords="1073,672,1263,699">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; double \&gt;" alt="" coords="349,2674,576,2700">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; double \&gt;" alt="" coords="717,2674,952,2700">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3.html" title="RDK2::Geometry::Point3\&lt; double \&gt;" alt="" coords="721,2858,948,2884">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_point2d_on_map.html" title="RDK2::RMaps::RPoint2dOnMap" alt="" coords="1064,2927,1272,2954">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3o.html" title="RDK2::Geometry::Point3o\&lt; double \&gt;" alt="" coords="1051,2674,1285,2700">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_geometry_1_1_r_point2od.html" title="RDK2::RGeometry::RPoint2od" alt="" coords="1069,2623,1267,2650">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_rfid_tag_on_map.html" title="RDK2::RMaps::RfidTagOnMap" alt="" coords="1069,2876,1267,2903">
+<area shape="rect" href="$class_posix_constructs_1_1_posix_mutex.html" title="PosixConstructs::PosixMutex" alt="" coords="27,900,221,927">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property.html" title="RDK2::RepositoryNS::Property" alt="" coords="363,900,563,927">
+<area shape="rect" href="$struct_r_d_k2_1_1_repository_n_s_1_1_r_property_def.html" title="RDK2::RepositoryNS::RPropertyDef" alt="" coords="720,900,949,927">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_quaternion.html" title="RDK2::Geometry::Quaternion\&lt; double \&gt;" alt="" coords="336,951,589,978">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_geometry_1_1_r_quaterniond.html" title="RDK2::RGeometry::RQuaterniond" alt="" coords="727,951,943,978">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_readable.html" title="RDK2::Serialization::Readable" alt="" coords="27,3383,221,3410">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html" title="La nuova e purificata RDK2::Object." alt="" coords="412,1483,513,1510">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_array_float32.html" title="RDK2::UnitTest::Serialization::ArrayFloat32" alt="" coords="327,3434,599,3460">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_array_int32.html" title="RDK2::UnitTest::Serialization::ArrayInt32" alt="" coords="333,3484,592,3511">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_array_int8.html" title="RDK2::UnitTest::Serialization::ArrayInt8" alt="" coords="337,3535,588,3562">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_array_uint8.html" title="RDK2::UnitTest::Serialization::ArrayUint8" alt="" coords="333,3586,592,3612">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_complex1.html" title="RDK2::UnitTest::Serialization::Complex1" alt="" coords="335,3636,591,3663">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_complex2.html" title="RDK2::UnitTest::Serialization::Complex2" alt="" coords="335,3687,591,3714">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_complex3.html" title="RDK2::UnitTest::Serialization::Complex3" alt="" coords="335,3738,591,3764">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_complex4.html" title="RDK2::UnitTest::Serialization::Complex4" alt="" coords="335,3788,591,3815">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_complex5.html" title="RDK2::UnitTest::Serialization::Complex5" alt="" coords="335,3839,591,3866">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_complex6.html" title="RDK2::UnitTest::Serialization::Complex6" alt="" coords="335,3890,591,3916">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_complex7.html" title="RDK2::UnitTest::Serialization::Complex7" alt="" coords="335,3940,591,3967">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_data1.html" title="RDK2::UnitTest::Serialization::Data1" alt="" coords="347,3991,579,4018">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_empty_array.html" title="RDK2::UnitTest::Serialization::EmptyArray" alt="" coords="329,4042,596,4068">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_empty_class.html" title="RDK2::UnitTest::Serialization::EmptyClass" alt="" coords="328,4092,597,4119">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_empty_version.html" title="RDK2::UnitTest::Serialization::EmptyVersion" alt="" coords="323,4143,603,4170">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_incomplete_read.html" title="RDK2::UnitTest::Serialization::ErrorIncompleteRead" alt="" coords="303,2724,623,2751">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_no_done_reading.html" title="RDK2::UnitTest::Serialization::ErrorNoDoneReading" alt="" coords="303,2775,623,2802">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_no_done_writing.html" title="RDK2::UnitTest::Serialization::ErrorNoDoneWriting" alt="" coords="307,2826,619,2852">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_no_start_reading.html" title="RDK2::UnitTest::Serialization::ErrorNoStartReading" alt="" coords="304,2876,621,2903">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_no_start_writing.html" title="RDK2::UnitTest::Serialization::ErrorNoStartWriting" alt="" coords="308,2927,617,2954">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_too_much_read.html" title="RDK2::UnitTest::Serialization::ErrorTooMuchRead" alt="" coords="308,2978,617,3004">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_wrong_class.html" title="RDK2::UnitTest::Serialization::ErrorWrongClass" alt="" coords="315,3028,611,3055">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_wrong_member_class.html" title="RDK2::UnitTest::Serialization::ErrorWrongMemberClass" alt="" coords="291,3079,635,3106">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_wrong_name1.html" title="RDK2::UnitTest::Serialization::ErrorWrongName1" alt="" coords="311,3130,615,3156">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_error_wrong_type1.html" title="RDK2::UnitTest::Serialization::ErrorWrongType1" alt="" coords="313,3180,612,3207">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_int_wrapper.html" title="RDK2::UnitTest::Serialization::IntWrapper" alt="" coords="332,3231,593,3258">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_string1.html" title="RDK2::UnitTest::Serialization::String1" alt="" coords="343,3282,583,3308">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_string_and_data1.html" title="RDK2::UnitTest::Serialization::StringAndData1" alt="" coords="319,3332,607,3359">
+<area shape="rect" href="$struct_r_d_k2_1_1_unit_test_1_1_serialization_1_1_version_test.html" title="RDK2::UnitTest::Serialization::VersionTest" alt="" coords="331,3383,595,3410">
+<area shape="rect" href="$struct_r_d_k2_1_1_meta_1_1_object_diff.html" title="RDK2::Meta::ObjectDiff" alt="" coords="756,1964,913,1991">
+<area shape="rect" href="$class_r_d_k2_1_1_r_agent_1_1_module_config.html" title="RDK2::RAgent::ModuleConfig" alt="" coords="739,1052,931,1079">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_agent_1_1_pair.html" title="RDK2::RAgent::Pair" alt="" coords="767,1103,903,1130">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_agent_1_1_r_agent_config.html" title="RDK2::RAgent::RAgentConfig" alt="" coords="737,1154,932,1180">
+<area shape="rect" href="$struct_r_d_k2_1_1_repository_n_s_1_1_r_property_update.html" title="RDK2::RepositoryNS::RPropertyUpdate" alt="" coords="709,1204,960,1231">
+<area shape="rect" href="$struct_r_d_k2_1_1_repository_n_s_1_1_r_remote_subscription.html" title="RDK2::RepositoryNS::RRemoteSubscription" alt="" coords="696,1255,973,1282">
+<area shape="rect" href="$class_r_d_k2_1_1_r_graphics_1_1_r_c8_set.html" title="RDK2::RGraphics::RC8Set" alt="" coords="747,1306,923,1332">
+<area shape="rect" href="$class_r_d_k2_1_1_r_graphics_1_1_r_image.html" title="RDK2::RGraphics::RImage" alt="" coords="747,1356,923,1383">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_graphics_1_1_r_pose_vector.html" title="RDK2::RGraphics::RPoseVector" alt="" coords="731,1407,939,1434">
+<area shape="rect" href="$class_r_d_k2_1_1_r_maps_1_1_r_feature_on_map.html" title="RDK2::RMaps::RFeatureOnMap" alt="" coords="731,1458,939,1484">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_frontier.html" title="RDK2::RMaps::RFrontier" alt="" coords="752,1508,917,1535">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_hbd_scan_result.html" title="RDK2::RMaps::RHbdScanResult" alt="" coords="729,1559,940,1586">
+<area shape="rect" href="$class_r_d_k2_1_1_r_maps_1_1_r_item_on_map.html" title="RDK2::RMaps::RItemOnMap" alt="" coords="740,2782,929,2808">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_map_image.html" title="RDK2::RMaps::RMapImage" alt="" coords="744,1610,925,1636">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_path_answer.html" title="RDK2::RMaps::RPathAnswer" alt="" coords="739,1660,931,1687">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_path_request.html" title="RDK2::RMaps::RPathRequest" alt="" coords="737,1711,932,1738">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_topological_frontier.html" title="RDK2::RMaps::RTopologicalFrontier" alt="" coords="720,1762,949,1788">
+<area shape="rect" href="$class_r_d_k2_1_1_r_net_objects_1_1_r_net_message.html" title="RDK2::RNetObjects::RNetMessage" alt="" coords="721,1812,948,1839">
+<area shape="rect" href="$class_r_d_k2_1_1_r_net_objects_1_1_r_yellow_pages.html" title="RDK2::RNetObjects::RYellowPages" alt="" coords="721,1863,948,1890">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_primitive_1_1_r_primitive.html" title="RDK2::RPrimitive::RPrimitive\&lt; T \&gt;" alt="" coords="723,1914,947,1940">
+<area shape="rect" href="$class_r_d_k2_1_1_r_primitive_1_1_r_string.html" title="RDK2::RPrimitive::RString" alt="" coords="748,2167,921,2194">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_blob_data.html" title="RDK2::RSensorData::RBlobData" alt="" coords="729,2218,940,2244">
+<area shape="rect" href="$class_r_d_k2_1_1_r_sensor_data_1_1_r_joystick_status.html" title="RDK2::RSensorData::RJoystickStatus" alt="" coords="713,2268,956,2295">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_temperature_data.html" title="RDK2::RSensorData::RTemperatureData" alt="" coords="707,2319,963,2346">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_touch_sensor_data.html" title="RDK2::RSensorData::RTouchSensorData" alt="" coords="705,2370,964,2396">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_usar_inu_data.html" title="RDK2::RSensorData::RUsarInuData" alt="" coords="720,2420,949,2447">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_usar_rfid_data.html" title="RDK2::RSensorData::RUsarRfidData" alt="" coords="717,2471,952,2498">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_sensor_data_1_1_r_usar_victim_rfid_data.html" title="RDK2::RSensorData::RUsarVictimRfidData" alt="" coords="699,2522,971,2548">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_primitive_1_1_r_primitive.html" title="RDK2::RPrimitive::RPrimitive\&lt; bool \&gt;" alt="" coords="715,2066,955,2092">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_primitive_1_1_r_primitive.html" title="RDK2::RPrimitive::RPrimitive\&lt; double \&gt;" alt="" coords="708,2116,961,2143">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_primitive_1_1_r_primitive.html" title="RDK2::RPrimitive::RPrimitive\&lt; int \&gt;" alt="" coords="720,2572,949,2599">
+<area shape="rect" href="$class_r_d_k2_1_1_containers_1_1_vector.html" title="RDK2::Containers::Vector\&lt; RType \&gt;" alt="" coords="1052,1863,1284,1890">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_graphics_1_1_r_image_diff_jpeg_packet.html" title="RDK2::RGraphics::RImageDiffJpegPacket" alt="" coords="1036,1914,1300,1940">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_graphics_1_1_r_image_diff_points.html" title="RDK2::RGraphics::RImageDiffPoints" alt="" coords="1052,1964,1284,1991">
+<area shape="rect" href="$class_r_d_k2_1_1_r_graphics_1_1_r_image_diff_rect.html" title="RDK2::RGraphics::RImageDiffRect" alt="" coords="1056,1711,1280,1738">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_map_image_diff_points.html" title="RDK2::RMaps::RMapImageDiffPoints" alt="" coords="1049,1762,1287,1788">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_map_image_diff_rect.html" title="RDK2::RMaps::RMapImageDiffRect" alt="" coords="1055,1812,1281,1839">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_line2d_on_map.html" title="RDK2::RMaps::RLine2dOnMap" alt="" coords="1068,2724,1268,2751">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_potential_victim_on_map.html" title="RDK2::RMaps::RPotentialVictimOnMap" alt="" coords="1043,2775,1293,2802">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_victim_on_map.html" title="RDK2::RMaps::RVictimOnMap" alt="" coords="1068,2826,1268,2852">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_primitive_1_1_r_bool.html" title="RDK2::RPrimitive::RBool" alt="" coords="1085,2066,1251,2092">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_primitive_1_1_r_double.html" title="RDK2::RPrimitive::RDouble" alt="" coords="1079,2116,1257,2143">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_primitive_1_1_r_int.html" title="RDK2::RPrimitive::RInt" alt="" coords="1091,2572,1245,2599">
+<area shape="rect" href="$struct_r_d_k2_1_1_demangle_1_1_reflective.html" title="RDK2::Demangle::Reflective" alt="" coords="31,1483,217,1510">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_writable.html" title="RDK2::Serialization::Writable" alt="" coords="29,3434,219,3460">

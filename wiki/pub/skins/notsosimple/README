@@ -1,0 +1,57 @@
+// Based on the "simple" PmWiki skin by:
+// Copyright (C) Julian I. Kamil <julian.kamil@gmail.com>
+// No warranty is provided.  Use at your own risk.
+//
+// 2005-11-02  ksc  This skin is almost entirely the 'simple' skin with
+//                  the exception of the added width to 870px, the added
+//                  SideBar, and misc little cleanups and fixes.
+// 
+// 2005-11-02  ksc  Little CSS fixes, increased the default sidebar width so it 
+//             looks ok with the default PmWiki Site.SideBar content, fixed 
+//             menubar width under IE, changed the menubar to use 
+//             $Group.PageActions $SiteGroup.PageActions instead of hardcoded
+//             values in the .tmpl file.
+//			
+//
+
+// Please set these variables in your PmWiki config.php
+//-------------------------------------------
+// Set $Skin to notsosimple in config.php
+$Skin = 'notsosimple';
+
+
+// Add these to config.php and edit as needed
+//-------------------------------------------
+
+// Your copyright
+$SkinCopyright = '&copy; 2005 Your Site';
+
+// Credit to PmWiki
+$SkinPoweredBy = 'Powered by <a href="http://pmwiki.org">PmWiki</a>';
+
+// Enable menubar = 1, disable = 0
+$EnableMenuBar = 1;
+
+// Where the skin is relative to the PmWiki root
+$SkinDirUrl = 'pub/skins/notsosimple';
+
+// From image/Box-Top-*.jpg. 
+// Black, Blue, Green, Orange, Purple, Red (default)
+$SkinTone = 'Red';
+
+
+// Random Skin Header (super annoying - include only to irritate your readers)
+/*
+srand((double) microtime() * 10000000);
+$arSkin = array('Black', 'Blue', 'Orange', 'Purple', 'Red');
+$pickOne = array_rand($arSkin, 1);
+$SkinTone = $arSkin[$pickOne];
+*/
+
+// Changing the menu
+//-------------------------------------------
+/* Edit Site.PageActions or {GroupName}.PageActions and edit to suit. This is a 
+much better way to do the menu because it's an editable wiki page and not 
+hardcoded into the template so users can customize the menubar just like the 
+sidebar and don't require access to the template file itself for editing. */
+

@@ -1,0 +1,7 @@
+<area shape="rect" href="$class_network_1_1_u_d_p_socket.html#27e42fd4de70be3fa50c4e0404d4142f" title="Network::UDPSocket::rebind" alt="" coords="276,107,463,134">
+<area shape="rect" href="$class_network_1_1_u_d_p_socket.html#fbbce09300c3387829c5afd2b94241a4" title="Network::UDPSocket::bind" alt="" coords="540,6,716,32">
+<area shape="rect" href="$class_network_1_1_u_d_p_socket.html#b3a7931c9bec030a6fc30cd1a495de08" title="Network::UDPSocket::unbind" alt="" coords="793,56,983,83">
+<area shape="rect" href="$class_network_1_1_u_d_p_socket.html#385638e0771a78d3fd7278076fbb8dc7" title="Network::UDPSocket::shutdown" alt="" coords="1032,82,1240,108">
+<area shape="rect" href="$class_network_1_1_inet_address.html#31a0bb9a5be201f83f9af042d7820fc3" title="Get the struct sockaddr_in ( const version )." alt="" coords="519,158,737,184">
+<area shape="rect" href="$class_network_1_1_inet_address.html#02a67b3d1b7258f5312dc03b99e22b3c" title="Get the ip address in dot notation." alt="" coords="512,208,744,235">
+<area shape="rect" href="$class_network_1_1_inet_address.html#44461e88c753f2326ca434ed04d2685f" title="Get the port." alt="" coords="531,259,725,286">

@@ -1,0 +1,9 @@
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html#2aba22808503edca6ff69ee2e50e1f08" title="RDK2::Geometry::Point2::distTo" alt="" coords="388,5,596,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_r_agent.html#86ef5abe255a6ba5dd751e403eb2fc85" title="RDK2::RAgent::for" alt="" coords="428,56,556,82">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html#3d5f2dbbd9f3bc9c16054129d8a5ed90" title="Returns the index of the ray that is nearest to theta. Returns the index of the ray..." alt="" coords="341,106,643,133">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html#7e88b0fbdd32af8bd112a3281d2332c4" title="Returns the distance between two rays (supposed to be the same for each ray). Returns..." alt="" coords="700,157,980,184">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html#9afc56e36c988e7a9158691df64def79" title="RDK2::Geometry::Point2::rot" alt="" coords="399,208,585,234">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html#642a35adc916a309aba6699b0cfb0c21" title="RDK2::Geometry::Point2::thetaWith" alt="" coords="379,258,605,285">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html#590f90cf0b568d64561803bfaecb387a" title="Update the theta value of all laser points Update the theta value of all laser points..." alt="" coords="349,309,635,336">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property_def.html#d0287a01236c0a3c64d308c44c51c4fc" title="RDK2::RepositoryNS::PropertyDef::isKeepThis" alt="" coords="693,30,987,57">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property_def.html#2a02e4334afb2fc4d0fbaeca3c387443" title="RDK2::RepositoryNS::PropertyDef::isPersistent" alt="" coords="692,81,988,108">

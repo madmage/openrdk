@@ -1,0 +1,18 @@
+<area shape="rect" href="$class_r_d_k2_1_1_object.html" title="La nuova e purificata RDK2::Object." alt="" coords="1311,128,1412,154">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_readable.html" title="RDK2::Serialization::Readable" alt="" coords="863,106,1057,133">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_writable.html" title="RDK2::Serialization::Writable" alt="" coords="865,5,1055,32">
+<area shape="rect" href="$struct_r_d_k2_1_1_demangle_1_1_reflective.html" title="RDK2::Demangle::Reflective" alt="" coords="867,56,1053,82">
+<area shape="rect" title="STL class." alt="" coords="920,161,1000,188">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_base_sensor_data.html" title="RDK2::SensorData::BaseSensorData" alt="" coords="1243,476,1480,502">
+<area shape="rect" title="STL class." alt="" coords="520,161,685,188">
+<area shape="rect" href="$struct_r_d_k2_1_1_time_1_1_timestamp.html" title="RDK2::Time::Timestamp" alt="" coords="877,310,1043,337">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_laser_data.html" title="RDK2::SensorData::LaserData" alt="" coords="1596,502,1793,529">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; double \&gt;" alt="" coords="843,482,1077,509">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3o.html" title="RDK2::Geometry::Point3o\&lt; double \&gt;" alt="" coords="1244,526,1479,553">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; double \&gt;" alt="" coords="489,482,716,509">
+<area shape="rect" href="$classdouble.html" title="double" alt="" coords="220,514,279,541">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; Numeric \&gt;" alt="" coords="481,346,724,373">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3o.html" title="RDK2::Geometry::Point3o\&lt; Numeric \&gt;" alt="" coords="839,390,1081,417">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; Numeric \&gt;" alt="" coords="131,321,368,348">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_laser_parser.html" title="RDK2::SensorData::LaserParser" alt="" coords="1257,784,1465,810">
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_parser.html" title="RDK2::SensorData::Parser" alt="" coords="872,789,1048,816">

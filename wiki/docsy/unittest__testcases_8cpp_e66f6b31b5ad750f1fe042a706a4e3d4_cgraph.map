@@ -1,0 +1,16 @@
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_binary_1_1_binary_reader.html#3868e63d14657dc09088cda5a4426040" title="RDK2::Serialization::Binary::BinaryReader::deserialize" alt="" coords="104,5,440,32">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_xml_1_1_xml_reader.html#bb133248dcefd28d9a668f03b43efba8" title="RDK2::Serialization::Xml::XmlReader::deserialize" alt="" coords="119,56,425,83">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#ca4235b191aa2a9aa962eb18e939037e" title="RDK2::Object::equals" alt="" coords="199,107,345,133">
+<area shape="rect" href="$namespace_r_d_k2_1_1_meta.html#1665dcb095d0f5cedb792577b1f1522c" title="RDK2::Meta::forName" alt="" coords="197,157,347,184">
+<area shape="rect" href="$namespace_r_d_k2_1_1_meta.html#0d3aef9b5b7c6e11161ac18921fa7435" title="RDK2::Meta::getClass2prot" alt="" coords="567,183,745,209">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#2e88d245b7bb81ba459ecdb19b07ca85" title="Get a vector of test cases." alt="" coords="177,259,367,285">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_binary_1_1_binary_writer.html#a6981b34163e162b9eff56c8fa18a059" title="RDK2::Serialization::Binary::BinaryWriter::serialize" alt="" coords="115,309,429,336">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_xml_1_1_xml_writer.html#856a4defdf6ef1522be3aaf4f065b5ee" title="RDK2::Serialization::Xml::XmlWriter::serialize" alt="" coords="129,360,415,387">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_binary_1_1_binary_reader.html#8537fa121425f4232b2c491e9878878f" title="RDK2::Serialization::Binary::BinaryReader::readObject" alt="" coords="488,5,824,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#2ead27084ff2b2bd8aa13ee777859de3" title="RDK2::Serialization::Binary::packetName" alt="" coords="907,5,1165,32">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_binary_1_1_binary_writer.html#c5ba7e35e4d84572f27b3f2be3aee35e" title="Scrittura di oggetti." alt="" coords="491,309,821,336">
+<area shape="rect" href="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#9be70f50de6a7274bdf2d6b10983d61e" title="RDK2::Serialization::Binary::packet_objectWithClass" alt="" coords="872,284,1200,311">
+<area shape="rect" href="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#0a63c6fa37e84c8578b092106b6d5bbb" title="RDK2::Serialization::Binary::packet_objectWithoutClass" alt="" coords="1249,335,1593,361">
+<area shape="rect" href="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#062e0b2e490aee65346c657233bff933" title="RDK2::Serialization::Binary::nbo_i32" alt="" coords="1643,284,1875,311">
+<area shape="rect" href="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#ffe038e4c9aaf02f512805868df1c3b3" title="RDK2::Serialization::Binary::packet_string" alt="" coords="1289,284,1553,311">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_xml_1_1_xml_writer.html#866f244ad070b6cf422f3b0c690a10e1" title="Scrittura di oggetti." alt="" coords="504,360,808,387">

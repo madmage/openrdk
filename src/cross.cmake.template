@@ -1,0 +1,18 @@
+# Enable cross compilation
+SET(GEODE_CROSS_BUILD 0)
+SET(ARM9_CROSS_BUILD 0)
+
+# Enable compilation of NaoQi modules
+# BIG FAT WARNING: This methods is not guaranteed to work everytime
+# It is here to speed up OpenRDK developers work, but it is not intended
+# for general use.
+# If you like to use OpenRDK on Nao robots, download the official stable package
+# from http://openrdk.sf.net
+SET(BUILD_NAOQI_MODULES 0)
+
+IF(${GEODE_CROSS_BUILD})
+	INCLUDE("./build_tools/cmake/Toolchain-geode.cmake")
+ELSEIF(${ARM9_CROSS_BUILD})
+	INCLUDE("./build_tools/cmake/Toolchain-arm9.cmake")
+ENDIF(${GEODE_CROSS_BUILD})
+

@@ -1,0 +1,20 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize=10,labelfontname="FreeSans.ttf",labelfontsize=10];
+  node [fontname="FreeSans.ttf",fontsize=10,shape=record];
+  rankdir=LR;
+  Node1 [label="RDK2::Geometry::cross_correlation",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="RDK2::Geometry::diff",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_geometry.html#ca50330bc469817022e9f3d0fd824714",tooltip="DONT USE, use difference()."];
+  Node2 -> Node3 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="RDK2::Geometry::angleDiff",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_geometry.html#5319534462e2f1b0cf7a56dad831f7d4",tooltip="You want the difference to be normalized between -pi and pi."];
+  Node3 -> Node4 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="RDK2::Geometry::norm2PI",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_geometry.html#da0508ebe1e17c15cac3f4cc18f4a37a",tooltip="Between 0 and 2pi."];
+  Node4 -> Node5 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node5 [label="RDK2::Geometry::norm",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_geometry.html#dbc3a4433c4164f53203aa2876e3d8fb"];
+  Node3 -> Node6 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node6 [label="RDK2::Geometry::norm2PIX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_geometry.html#0d1d765dd1452941239d697b6e2c36b1",tooltip="Between -pi and pi."];
+  Node6 -> Node5 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node2 -> Node7 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node7 [label="RDK2::Geometry::sgn",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_geometry.html#d5c206ebd6ee04a1ba05d46aa13d8949"];
+}

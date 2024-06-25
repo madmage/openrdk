@@ -1,0 +1,8 @@
+<area shape="rect" href="$class_network_1_1_net_exception.html#57751a053a8210521b80f189c49386e8" title="Return specified cause + errno." alt="" coords="363,30,568,57">
+<area shape="rect" href="$class_network_1_1_inet_address.html#02a67b3d1b7258f5312dc03b99e22b3c" title="Get the ip address in dot notation." alt="" coords="349,132,581,158">
+<area shape="rect" href="$class_network_1_1_inet_address.html#44461e88c753f2326ca434ed04d2685f" title="Get the port." alt="" coords="368,233,563,260">
+<area shape="rect" href="$class_network_1_1_u_d_p_socket.html#3848a78ce06274409ce19c46ce8fe413" title="Network::UDPSocket::recv" alt="" coords="115,208,291,234">
+<area shape="rect" href="$class_network_1_1_u_d_p_socket.html#a60706ac7b1977969575e06f26328ba6" title="Network::UDPSocket::send" alt="" coords="113,157,292,184">
+<area shape="rect" href="$nettcptest2_8cpp.html#5113702bb4987cc31a44a61c4cd9e285" title="sender" alt="" coords="173,5,232,32">
+<area shape="rect" href="$class_network_1_1_inet_address.html#9aff8b50a61b42254c401439c72a4b23" title="Set a new port." alt="" coords="105,309,300,336">
+<area shape="rect" href="$class_network_1_1_inet_address.html#31a0bb9a5be201f83f9af042d7820fc3" title="Get the struct sockaddr_in ( const version )." alt="" coords="356,182,575,209">

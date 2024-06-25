@@ -1,0 +1,19 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize=10,labelfontname="FreeSans.ttf",labelfontsize=10];
+  node [fontname="FreeSans.ttf",fontsize=10,shape=record];
+  rankdir=LR;
+  Node1 [label="RDK2::RGraphics::RImage::loadPGM",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="RDK2::TextUtils::consumeWhitespace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_text_utils.html#fcd70915c5a8a8dfa9c4aa667e2275e4",tooltip="Add your own utils here."];
+  Node2 -> Node3 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="RDK2::TextUtils::consume_line",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_text_utils.html#a4b4be22a94eaa6f71a6204682daac4c"];
+  Node1 -> Node4 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="RDK2::RGraphics::RImage::getPixels",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_r_graphics_1_1_r_image.html#fa7608b9fb40cd04c45e086ee0669bff",tooltip="l&#39;array dei puntatori alle righe dell&#39;immagine, consigliato per elaborazione..."];
+  Node1 -> Node5 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node5 [label="RDK2::TextUtils::quote",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_text_utils.html#304e6b2f8abe1fb218db6c3d79296a8d",tooltip="The converse of ."];
+  Node1 -> Node6 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node6 [label="RDK2::TextUtils::readCommentLines",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_text_utils.html#432d8d3d4226df545fb951bc9c617481",tooltip="Reads a comment of the form &quot;# ... \\n # ...&quot; and strips the #."];
+  Node1 -> Node7 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node7 [label="RDK2::RGraphics::RImage::RImage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_r_graphics_1_1_r_image.html#00da27a0185979b0085d4f3ffa582459",tooltip="Crea un immagine vuota, di dimensione nulla."];
+}

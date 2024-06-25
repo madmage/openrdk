@@ -1,0 +1,23 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize=10,labelfontname="FreeSans.ttf",labelfontsize=10];
+  node [fontname="FreeSans.ttf",fontsize=10,shape=record];
+  rankdir=LR;
+  Node1 [label="RDK2::Geometry::convolve",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="RDK2::Geometry::DMatrix::around",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#f566f79f11ded509f68b90972a3729b6",tooltip="Returns the 2m+1 square sub-matrix around point i,j."];
+  Node2 -> Node3 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="RDK2::Geometry::DMatrix::aPieceOfYou",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#54246ada7a279c67dc536dfb99f27514",tooltip="Returns a copy of the sub-matrix i,j-i+m,j+n."];
+  Node3 -> Node4 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="RDK2::Geometry::DMatrix::at",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#f1bfee8d5d18156a3711a0497bc741f3",tooltip="Returns value at row=i,column=j of zero if out of borders."];
+  Node4 -> Node5 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node5 [label="RDK2::Geometry::DMatrix::isInside",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#000ae6c4db95fad073fef308186f8e12",tooltip="Checks whether point is inside the matrix."];
+  Node1 -> Node6 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node6 [label="RDK2::Geometry::DMatrix::columns",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#cf8d5086b9d911e7c5b58eee2c4b115c"];
+  Node1 -> Node7 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node7 [label="RDK2::Geometry::DMatrix::product",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#91889aaf709ad69ee66bc57eb9ab6094",tooltip="For matrixes holding numbers."];
+  Node7 -> Node6 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node7 -> Node8 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node8 [label="RDK2::Geometry::DMatrix::rows",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html#2c1b85126c7683b5960d90209eaf68de"];
+  Node1 -> Node8 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+}

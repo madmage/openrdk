@@ -1,0 +1,4 @@
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#275f5a3c7d047391c0681a2e918ed7b7" title="RDK2::Geometry::pointDistFromLine" alt="" coords="297,31,529,57">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html#2aba22808503edca6ff69ee2e50e1f08" title="RDK2::Geometry::Point2::distTo" alt="" coords="600,5,808,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#4125e8927e0dac64591960aab1bca6d3" title="RDK2::Geometry::projectPointOntoLine" alt="" coords="580,56,828,83">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#84032c80b2007af6bda9c9f993c8b5a0" title="RDK2::Geometry::projectPointOntoLineOrSegment" alt="" coords="879,56,1193,83">

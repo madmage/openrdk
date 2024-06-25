@@ -1,0 +1,13 @@
+<area shape="rect" href="$class_r_d_k2_1_1_containers_1_1_vector.html" title="RDK2::Containers::Vector\&lt; RType \&gt;" alt="" coords="631,147,863,174">
+<area shape="rect" href="$class_r_d_k2_1_1_containers_1_1_vector.html" title="RDK2::Containers::Vector\&lt; RDK2::RGeometry::RPoint2d \&gt;" alt="" coords="1128,74,1491,100">
+<area shape="rect" href="$class_r_d_k2_1_1_containers_1_1_vector.html" title="RDK2::Containers::Vector\&lt; RDK2::RAgent::ModuleConfig \&gt;" alt="" coords="1127,146,1492,172">
+<area shape="rect" href="$class_r_d_k2_1_1_containers_1_1_vector.html" title="RDK2::Containers::Vector\&lt; RDK2::RAgent::Pair \&gt;" alt="" coords="1155,239,1464,266">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_graphics_1_1_r_image_diff_jpeg_packet.html" title="RDK2::RGraphics::RImageDiffJpegPacket" alt="" coords="615,324,879,351">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_graphics_1_1_r_image_diff_points.html" title="RDK2::RGraphics::RImageDiffPoints" alt="" coords="631,375,863,402">
+<area shape="rect" href="$class_r_d_k2_1_1_r_graphics_1_1_r_image_diff_rect.html" title="RDK2::RGraphics::RImageDiffRect" alt="" coords="635,426,859,452">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_map_image_diff_points.html" title="RDK2::RMaps::RMapImageDiffPoints" alt="" coords="628,476,865,503">
+<area shape="rect" href="$struct_r_d_k2_1_1_r_maps_1_1_r_map_image_diff_rect.html" title="RDK2::RMaps::RMapImageDiffRect" alt="" coords="633,527,860,554">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html" title="La nuova e purificata RDK2::Object." alt="" coords="253,324,355,351">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_readable.html" title="RDK2::Serialization::Readable" alt="" coords="7,274,201,300">
+<area shape="rect" href="$class_r_d_k2_1_1_serialization_1_1_writable.html" title="RDK2::Serialization::Writable" alt="" coords="9,324,199,351">
+<area shape="rect" href="$struct_r_d_k2_1_1_demangle_1_1_reflective.html" title="RDK2::Demangle::Reflective" alt="" coords="11,375,197,402">

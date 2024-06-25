@@ -1,0 +1,19 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize=10,labelfontname="FreeSans.ttf",labelfontsize=10];
+  node [fontname="FreeSans.ttf",fontsize=10,shape=record];
+  rankdir=LR;
+  Node1 [label="TestCase",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node1 -> Node2 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="INFNANTest\< T \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_i_n_f_n_a_n_test.html"];
+  Node1 -> Node3 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="RDK2::UnitTest::Object::TestReflection1",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_unit_test_1_1_object_1_1_test_reflection1.html"];
+  Node1 -> Node4 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="RDK2::UnitTest::Serialization::SerializationTest1\< X \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_unit_test_1_1_serialization_1_1_serialization_test1.html",tooltip="SerializeCompare to file (create if not exists)Create another instance, deserialize..."];
+  Node1 -> Node5 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node5 [label="RDK2::UnitTest::Serialization::SerializationTest2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_unit_test_1_1_serialization_1_1_serialization_test2.html",tooltip="Serialize instanceCompare to file (create if not exists)Create another instance with..."];
+  Node1 -> Node6 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node6 [label="RDK2::UnitTest::Serialization::SerializationTestBad\< X \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_unit_test_1_1_serialization_1_1_serialization_test_bad.html",tooltip="Asserts if there is no exception."];
+  Node1 -> Node7 [dir=back,color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node7 [label="RDK2::UnitTest::Serialization::TestSizes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_unit_test_1_1_serialization_1_1_test_sizes.html"];
+}

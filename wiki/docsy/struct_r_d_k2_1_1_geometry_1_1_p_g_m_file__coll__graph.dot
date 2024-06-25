@@ -1,0 +1,25 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize=10,labelfontname="FreeSans.ttf",labelfontsize=10];
+  node [fontname="FreeSans.ttf",fontsize=10,shape=record];
+  Node1 [label="RDK2::Geometry::PGMFile",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="buffer",fontname="FreeSans.ttf"];
+  Node2 [label="RDK2::Geometry::DMatrix\< int \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html"];
+  Node3 -> Node2 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="shares\nelems",fontname="FreeSans.ttf"];
+  Node3 [label="int *",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node2 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="mrows",fontname="FreeSans.ttf"];
+  Node4 [label="int **",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node2 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="nrows\nncols",fontname="FreeSans.ttf"];
+  Node5 [label="int",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node2 [dir=back,color="orange",fontsize=10,style="dashed",label="\< int \>",fontname="FreeSans.ttf"];
+  Node6 [label="RDK2::Geometry::DMatrix\< X \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_geometry_1_1_d_matrix.html",tooltip="Attenzione al costruttore: rows,columns == height,width."];
+  Node3 -> Node6 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="shares",fontname="FreeSans.ttf"];
+  Node7 -> Node6 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="mrows\nelems",fontname="FreeSans.ttf"];
+  Node7 [label="X",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node6 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="nrows\nncols",fontname="FreeSans.ttf"];
+  Node5 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="width\nheight\nmaxVal",fontname="FreeSans.ttf"];
+  Node8 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="comment",fontname="FreeSans.ttf"];
+  Node8 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node1 [dir=back,color="darkorchid3",fontsize=10,style="dashed",label="type",fontname="FreeSans.ttf"];
+  Node9 [label="Type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

@@ -1,0 +1,19 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize=10,labelfontname="FreeSans.ttf",labelfontsize=10];
+  node [fontname="FreeSans.ttf",fontsize=10,shape=record];
+  rankdir=LR;
+  Node1 [label="RDK2::Serialization::Binary::BinaryWriter::serialize",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="RDK2::Serialization::Binary::BinaryWriter::writeObject",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_r_d_k2_1_1_serialization_1_1_binary_1_1_binary_writer.html#c5ba7e35e4d84572f27b3f2be3aee35e",tooltip="Scrittura di oggetti."];
+  Node2 -> Node3 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="RDK2::Serialization::Binary::packet_objectWithClass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#9be70f50de6a7274bdf2d6b10983d61e"];
+  Node3 -> Node4 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="RDK2::Serialization::Binary::nbo_i32",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#062e0b2e490aee65346c657233bff933"];
+  Node3 -> Node5 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node5 [label="RDK2::Serialization::Binary::packet_string",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#ffe038e4c9aaf02f512805868df1c3b3"];
+  Node5 -> Node4 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node2 -> Node6 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+  Node6 [label="RDK2::Serialization::Binary::packet_objectWithoutClass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#0a63c6fa37e84c8578b092106b6d5bbb"];
+  Node6 -> Node4 [color="midnightblue",fontsize=10,style="solid",fontname="FreeSans.ttf"];
+}

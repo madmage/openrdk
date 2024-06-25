@@ -1,0 +1,13 @@
+<area shape="rect" href="$struct_r_d_k2_1_1_sensor_data_1_1_base_sensor_data.html" title="RDK2::SensorData::BaseSensorData" alt="" coords="1235,521,1472,548">
+<area shape="rect" title="STL class." alt="" coords="933,608,1013,635">
+<area shape="rect" title="STL class." alt="" coords="529,612,695,639">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; double \&gt;" alt="" coords="856,447,1091,473">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; double \&gt;" alt="" coords="499,311,725,337">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3.html" title="RDK2::Geometry::Point3\&lt; double \&gt;" alt="" coords="860,263,1087,289">
+<area shape="rect" href="$classdouble.html" title="double" alt="" coords="220,396,279,423">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point2o.html" title="RDK2::Geometry::Point2o\&lt; Numeric \&gt;" alt="" coords="491,447,733,473">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_quaternion.html" title="RDK2::Geometry::Quaternion\&lt; double \&gt;" alt="" coords="1227,336,1480,363">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_quaternion.html" title="RDK2::Geometry::Quaternion\&lt; Numeric \&gt;" alt="" coords="480,139,744,165">
+<area shape="rect" href="$struct_r_d_k2_1_1_geometry_1_1_point2.html" title="RDK2::Geometry::Point2\&lt; Numeric \&gt;" alt="" coords="131,204,368,231">
+<area shape="rect" href="$class_r_d_k2_1_1_geometry_1_1_point3.html" title="RDK2::Geometry::Point3\&lt; Numeric \&gt;" alt="" coords="493,189,731,216">
+<area shape="rect" href="$struct_r_d_k2_1_1_time_1_1_timestamp.html" title="RDK2::Time::Timestamp" alt="" coords="891,549,1056,576">

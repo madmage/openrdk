@@ -1,0 +1,5 @@
+<area shape="rect" href="$class_network_1_1_t_c_p_server_socket.html#94ec1f13c1f477bfc6360e9112415542" title="Network::TCPServerSocket::accept" alt="" coords="105,5,332,32">
+<area shape="rect" href="$class_network_1_1_net_exception.html#57751a053a8210521b80f189c49386e8" title="Return specified cause + errno." alt="" coords="389,106,595,133">
+<area shape="rect" href="$nettcptest2_8cpp.html#6523458f7127046c5f2debe4d9813fa7" title="receiver" alt="" coords="185,106,252,133">
+<area shape="rect" href="$nettcptest2_8cpp.html#5113702bb4987cc31a44a61c4cd9e285" title="sender" alt="" coords="189,157,248,184">
+<area shape="rect" href="$class_network_1_1_inet_address.html#31a0bb9a5be201f83f9af042d7820fc3" title="Get the struct sockaddr_in ( const version )." alt="" coords="383,5,601,32">

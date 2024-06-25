@@ -1,0 +1,7 @@
+<p>Here is a paper about our OpenRDK:</p>
+
+<p><a href="rdk2techrep.pdf">
+<b>OpenRDK: a modular framework for robotics software development</b></a><br/>
+D. Calisi, A. Censi, L. Iocchi, D. Nardi<br/>
+<i>Technical Report</i></p>
+

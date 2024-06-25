@@ -1,0 +1,5 @@
+<area shape="rect" href="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#eb50510297b30176ea18cd7d12e33371" title="RDK2::Serialization::Binary::packet_f64" alt="" coords="375,56,625,82">
+<area shape="rect" href="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#328bad6c74271f13bb123ef1121efe2e" title="Note: please make sure it is in sync with the companion in binaryreader_bytes.cpp..." alt="" coords="676,30,908,57">
+<area shape="rect" href="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#062e0b2e490aee65346c657233bff933" title="RDK2::Serialization::Binary::nbo_i32" alt="" coords="676,81,908,108">
+<area shape="rect" href="$namespace_r_d_k2_1_1_serialization_1_1_binary.html#86b1984e7c890d17bf27a2ac24ffe77a" title="RDK2::Serialization::Binary::nbo_f32" alt="" coords="959,5,1191,32">
+<area shape="rect" href="$namespace_r_d_k2_1_1_geometry.html#91f8f308974079c4fffa167c54b114ae" title="Testa se un numero � infinito." alt="" coords="977,56,1172,82">

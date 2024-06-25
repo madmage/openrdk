@@ -1,0 +1,25 @@
+<area shape="rect" href="$class_r_d_k2_1_1_containers_1_1_vector.html#d25640bab4905c8394661b50d29b86a5" title="RDK2::Containers::Vector::begin" alt="" coords="429,5,637,32">
+<area shape="rect" href="$class_r_d_k2_1_1_containers_1_1_vector.html#45d13fbd3fbdca99fefe77f63d966a46" title="RDK2::Containers::Vector::end" alt="" coords="433,56,633,83">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property_def.html#361a5ab1dfd624e79b4102c43171d0b7" title="RDK2::RepositoryNS::PropertyDef::getLinkTo" alt="" coords="392,107,675,133">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_repository.html#866e7a4c8ab1ce88725bc92eb21f117f" title="RDK2::RepositoryNS::Repository::getLocalPropertiesStartingWith" alt="" coords="333,157,733,184">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#a8d3935e8ab98abb9055afb1bdb73182" title="Ritorna la rappresentazione come stringa." alt="" coords="409,208,657,235">
+<area shape="rect" href="$class_r_d_k2_1_1_object.html#1148b03a8f303bdb6f3af47f784f7627" title="Ritorna true se ha una rappresentazione &quot;semplice&quot; come stringa." alt="" coords="408,259,659,285">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property_def.html#d0287a01236c0a3c64d308c44c51c4fc" title="RDK2::RepositoryNS::PropertyDef::isKeepThis" alt="" coords="387,309,680,336">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property_def.html#2666c8cc7757077777ca404844967011" title="RDK2::RepositoryNS::PropertyDef::isLink" alt="" coords="403,360,664,387">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property_def.html#2a02e4334afb2fc4d0fbaeca3c387443" title="RDK2::RepositoryNS::PropertyDef::isPersistent" alt="" coords="385,411,681,437">
+<area shape="rect" href="$class_r_d_k2_1_1_repository_n_s_1_1_property_def.html#3fe5e2a9b02ba42c76bc078866c13a74" title="RDK2::RepositoryNS::PropertyDef::isVolatile" alt="" coords="393,461,673,488">
+<area shape="rect" href="$class_r_d_k2_1_1_containers_1_1_vector.html#bd12a26cc0bcc964fb27f6debb4d895c" title="RDK2::Containers::Vector::push_back" alt="" coords="413,512,653,539">
+<area shape="rect" href="$class_posix_constructs_1_1_posix_mutex.html#45e42845140324802a68a81ec1d9ee09" title="PosixConstructs::PosixMutex::lock" alt="" coords="808,81,1035,108">
+<area shape="rect" href="$namespace_r_d_k2_1_1_text_utils.html#6f2115445276df1daae1bf0ed5609b23" title="RDK2::TextUtils::startsWith" alt="" coords="831,132,1012,159">
+<area shape="rect" href="$class_posix_constructs_1_1_posix_mutex.html#f735e71d6e450bfc520527f37fab8edc" title="PosixConstructs::PosixMutex::unlock" alt="" coords="801,183,1041,209">
+<area shape="rect" href="$struct_r_d_k2_1_1_demangle_1_1_reflective.html#9277d1d6deb515a6cf603fd39caf08a8" title="RDK2::Demangle::Reflective::getClassName" alt="" coords="781,233,1061,260">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#7271ff5f9d920962422e67f63941e1d7" title="RDK2::Demangle::demangle" alt="" coords="1111,233,1295,260">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#3b6ace6c9a840f7b51ecf66316288b77" title="RDK2::Demangle::deleteNamespaces" alt="" coords="1344,208,1584,235">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#41de781c3ef20c38d0c14456e62948fb" title="RDK2::Demangle::rdemangle" alt="" coords="1369,259,1559,285">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#8c0c7c9ce4814fbb1211ff3062318dd2" title="RDK2::Demangle::try_type" alt="" coords="1632,259,1808,285">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#1c106ed97b848640e31942ab6d072c41" title="RDK2::Demangle::native_type" alt="" coords="1868,132,2063,159">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#7096de8a7c46985a70bfccb0a972d6be" title="RDK2::Demangle::pointer" alt="" coords="1881,183,2049,209">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#03e2733aa0b1679dbb067e00b8d762cd" title="RDK2::Demangle::qualified_class" alt="" coords="1857,233,2073,260">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#ae0712d935474246b50d911fada13230" title="RDK2::Demangle::reference" alt="" coords="1873,284,2057,311">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#49a854f4a3d0e04c97304667cc66b8a1" title="RDK2::Demangle::simple_class" alt="" coords="1863,335,2068,361">
+<area shape="rect" href="$namespace_r_d_k2_1_1_demangle.html#8a9767825f195a1be60a0e440a17122d" title="RDK2::Demangle::template_class" alt="" coords="1857,385,2073,412">
